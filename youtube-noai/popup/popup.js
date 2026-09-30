@@ -128,6 +128,47 @@ document.addEventListener('DOMContentLoaded', async () => {
     }, 2000);
   });
 
+  // Export Settings & Blocklist to JSON
+  const exportBtn = document.getElementById('export-json');
+  if (exportBtn) {
+    exportBtn.addEventListener('click', async () => {
+      const stored = await chrome.storage.sync.get(null);
+      const jsonStr = JSON.stringify(stored, null, 2);
+      const blob = new Blob([jsonStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `noai-youtube-settings-${new Date().toISOString().slice(0, 10)}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+  }
+
+  // Import Settings & Blocklist from JSON
+  const importBtn = document.getElementById('import-json');
+  const importFile = document.getElementById('import-file');
+  if (importBtn && importFile) {
+    importBtn.addEventListener('click', () => importFile.click());
+    importFile.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = async (evt) => {
+        try {
+          const imported = JSON.parse(evt.target.result);
+          if (imported && typeof imported === 'object') {
+            await chrome.storage.sync.set(imported);
+            saveStatus.textContent = 'Imported!';
+            setTimeout(() => location.reload(), 1000);
+          }
+        } catch (err) {
+          alert('Invalid JSON file format.');
+        }
+      };
+      reader.readAsText(file);
+    });
+  }
+
   const donateLink = document.getElementById('donate-link');
   if (donateLink) {
     donateLink.addEventListener('click', (e) => {

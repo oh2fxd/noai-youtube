@@ -89,7 +89,12 @@
           <label class="sub-label" style="margin-top: 8px;">Blocked Channels (one per line):</label>
           <textarea id="channels-input" rows="3" placeholder="Channel Name..."></textarea>
           
-          <button id="save-advanced" class="btn-save">Save Filters</button>
+          <div style="display: flex; gap: 8px; margin-top: 10px;">
+            <button id="save-advanced" class="btn-save" style="flex: 1;">Save Filters</button>
+            <button id="export-json" class="btn-save" style="background: #334155; flex: 1;">📤 Export</button>
+            <button id="import-json" class="btn-save" style="background: #334155; flex: 1;">📥 Import</button>
+          </div>
+          <input type="file" id="import-file" accept=".json" style="display: none;">
           <span id="save-status" class="save-status"></span>
         </div>
       </details>
