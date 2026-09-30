@@ -75,3 +75,9 @@ NoAI for YouTube is 100% free and open-source. If you find this extension helpfu
 - **GitHub Sponsors**: [github.com/sponsors/oh2fxd](https://github.com/sponsors/oh2fxd)
 - **PayPal**: [paypal.me/dxdroid](https://www.paypal.com/paypalme/dxdroid) — 73 de OH2FXD
 
+---
+
+## 📄 License
+
+This project is open-source and licensed under the [MIT License](file:///home/oh2fxd/toolbox/python/noai/LICENSE). Feel free to use, modify, and distribute it.
+
