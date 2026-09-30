@@ -148,36 +148,82 @@
 
 /* WATCH PAGE WARNING BANNER */
 #noai-watch-banner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 12px 0 16px 0;
-  padding: 10px 14px;
-  background: rgba(225, 29, 72, 0.12);
-  border: 1px solid rgba(225, 29, 72, 0.4);
-  border-radius: 8px;
-  color: #fda4af;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-size: 13px;
-  line-height: 1.4;
-  box-sizing: border-box;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  margin: 12px 0 16px 0 !important;
+  padding: 10px 16px !important;
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.22) 0%, rgba(15, 23, 42, 0.95) 100%) !important;
+  border: 1.5px solid #e11d48 !important;
+  border-radius: 10px !important;
+  color: #ffffff !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 13px !important;
+  line-height: 1.4 !important;
+  box-sizing: border-box !important;
+  box-shadow: 0 4px 12px rgba(225, 29, 72, 0.25) !important;
+  z-index: 9999 !important;
 }
 
-#noai-watch-banner strong {
-  color: #fff;
-  font-weight: 600;
+.noai-banner-content {
+  display: flex !important;
+  align-items: center !important;
+  gap: 12px !important;
+}
+
+.noai-banner-icon {
+  font-size: 22px !important;
+}
+
+.noai-banner-text {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 2px !important;
+}
+
+.noai-banner-text strong {
+  color: #fda4af !important;
+  font-size: 13.5px !important;
+  font-weight: 800 !important;
+}
+
+.noai-banner-reason {
+  color: #e2e8f0 !important;
+  font-size: 11.5px !important;
+  font-weight: 600 !important;
+}
+
+.noai-banner-actions {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+}
+
+.noai-banner-block-btn {
+  background: #e11d48 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 5px 12px !important;
+  font-size: 12px !important;
+  font-weight: 800 !important;
+  cursor: pointer !important;
+  transition: background 0.15s ease, transform 0.1s ease !important;
+}
+.noai-banner-block-btn:hover {
+  background: #be123c !important;
+  transform: scale(1.03) !important;
 }
 
 #noai-watch-banner .noai-banner-close {
-  cursor: pointer;
-  background: none;
-  border: none;
-  color: #fda4af;
-  font-size: 16px;
-  line-height: 1;
-  padding: 0 4px;
-  margin-left: 12px;
+  cursor: pointer !important;
+  background: none !important;
+  border: none !important;
+  color: #fda4af !important;
+  font-size: 18px !important;
+  line-height: 1 !important;
+  padding: 0 4px !important;
 }
 #noai-watch-banner .noai-banner-close:hover {
-  color: #fff;
+  color: #fff !important;
 }

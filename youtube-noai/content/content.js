@@ -533,7 +533,7 @@
     }
   }
 
-  // Watch page official disclosure detection
+  // Watch page comprehensive AI detection & warning banner
   function checkWatchPage() {
     if (!location.pathname.startsWith('/watch')) {
       const existingBanner = document.getElementById('noai-watch-banner');
@@ -541,30 +541,58 @@
       return;
     }
 
-    if (!config.enabled || !config.detectOfficialLabels) return;
+    if (!config.enabled) return;
 
-    const desc = document.querySelector('#description-inner, #structured-description, ytd-structured-description-content-renderer');
-    if (desc) {
-      const text = desc.textContent;
-      const isSynthetic = text.includes('Altered or synthetic content') || 
-                          text.includes('How this content was made') ||
-                          text.includes('digitally generated');
+    // Check watch page container or primary video metadata element
+    const watchPrimary = document.querySelector('ytd-watch-flexy, #primary, #above-the-fold');
+    if (!watchPrimary) return;
 
-      const existingBanner = document.getElementById('noai-watch-banner');
-      if (isSynthetic && !existingBanner) {
+    // Evaluate watch page metadata using checkCardForAI logic
+    const result = checkCardForAI(watchPrimary);
+
+    const existingBanner = document.getElementById('noai-watch-banner');
+
+    if (result.isAI) {
+      if (!existingBanner) {
         const banner = document.createElement('div');
         banner.id = 'noai-watch-banner';
         banner.innerHTML = `
-          <span>⚠️ <strong>AI Content Notice:</strong> YouTube indicates this video contains altered or synthetic media.</span>
-          <button class="noai-banner-close" title="Dismiss">&times;</button>
+          <div class="noai-banner-content">
+            <span class="noai-banner-icon">🤖</span>
+            <div class="noai-banner-text">
+              <strong>AI-Generated Video Detected</strong>
+              <span class="noai-banner-reason">Reason: ${result.reason}</span>
+            </div>
+          </div>
+          <div class="noai-banner-actions">
+            <button class="noai-banner-block-btn" type="button" title="Block this AI Channel">🚫 Block Channel</button>
+            <button class="noai-banner-close" type="button" title="Dismiss">&times;</button>
+          </div>
         `;
+
         banner.querySelector('.noai-banner-close').addEventListener('click', () => banner.remove());
+        
+        const blockBtn = banner.querySelector('.noai-banner-block-btn');
+        blockBtn.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          handleBlockChannel(watchPrimary);
+          banner.remove();
+        });
 
         const target = document.querySelector('#above-the-fold, #owner');
-        if (target) {
+        if (target && target.parentElement) {
           target.parentElement.insertBefore(banner, target);
         }
+      } else {
+        // Update existing banner reason if needed
+        const reasonEl = existingBanner.querySelector('.noai-banner-reason');
+        if (reasonEl) {
+          reasonEl.textContent = `Reason: ${result.reason}`;
+        }
       }
+    } else if (existingBanner) {
+      existingBanner.remove();
     }
   }
 
