@@ -1,0 +1,584 @@
+{
+  "total_scanned": 350,
+  "ai_flagged_count": 55,
+  "ai_flagged_percent": 15.71,
+  "discovered_ai_channels_count": 35,
+  "discovered_ai_channels": [
+    "Amoda Session",
+    "Astral Phonk",
+    "Atus Music",
+    "BERLIN PULSE",
+    "Brahman games",
+    "CINECIPHER",
+    "Chill Music Lab",
+    "Cybermode Beats",
+    "Cyprus RAVE",
+    "Dark Noir Techno",
+    "Deep Flow Techno",
+    "ECHOLOOP",
+    "FAR EAST ECHOES",
+    "Goth Dark Techno",
+    "Grand Sound",
+    "Hard Wind Frequencies",
+    "Human Music",
+    "HyperTechFury",
+    "KRYA Dark Tech",
+    "Larub Techno Sessions",
+    "Melodic Techno Space",
+    "Misstiq",
+    "Moebius FM",
+    "MuzLub",
+    "NEUTRAL PHONKS",
+    "Nocturnal Moon Session",
+    "Occultus Records &amp; Black Square Recordings",
+    "PHONK YT",
+    "Shadow House Mixes",
+    "Sub Pulse",
+    "SynthWavesZ",
+    "Techno B34tz",
+    "Traxtorm Records",
+    "ZXKAI - Topic",
+    "fristok"
+  ],
+  "reason_breakdown": {
+    "Title Farm Formula": 21,
+    "Curated AI Farm": 28,
+    "Unicode Font Evasion": 14,
+    "Channel Naming Pattern": 18,
+    "ChatGPT Description Formula": 5,
+    "Keyword: ai, suno, suno ai": 1,
+    "Keyword: suno": 3
+  },
+  "sample_ai_videos": [
+    {
+      "video_id": "rpx66ae9bn0",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix 1",
+      "channel": "Techno B34tz",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "XZr_pGybeWA",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix 005",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "JkY-pvLeVjs",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "lOwNB4uTsv8",
+      "title": "TECHNO BASS MIX 2026 | Dark Club DJ Set &amp; Industrial Rave Playlist",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "OBUO0rkeR34",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "XqbGEg1fhWU",
+      "title": "PARTY MIX 2026 \u26a1 Mashups &amp; Remixes of Popular Songs 2026 \u26a1 Ti\u00ebsto, David Guetta, Hardwell, Afrojack",
+      "channel": "Atus Music",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula",
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "DCpheaHVD90",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "Cbvm3WenS5A",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "9g2-0lRXzu4",
+      "title": "Mystical Asian Melodic Techno 2026 \ud83d\udd25 Full Set on My Channel",
+      "channel": "Melodic Techno Space",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "5ZBgx1NeUWg",
+      "title": "Techno Mix \u2013 March 2019 \u2013\u00a0by Extatic",
+      "channel": "Human Music",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "EJqFjvKF8HU",
+      "title": "DARK HOUSE 2025 \ud83d\udda4 Deep Hypnotic Electronic Experience",
+      "channel": "Amoda Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "kbdOao0In8w",
+      "title": "Dark Rave 2026 \ud83d\udda4 The Dark Never Forgets \u00b7 Peak Time Dark Techno Session",
+      "channel": "KRYA Dark Tech",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "uQRd6t29Giw",
+      "title": "Dark Tech House 2026 | Hypnotic Underground Set | Nightclub Dark Mix",
+      "channel": "Nocturnal Moon Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "EWZwjdWbGpI",
+      "title": "\ud83d\udc0d TOXIC EUPHORIA: Dark Techno &amp; Hardstyle 2026",
+      "channel": "Amoda Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "8hxrzhin2Ek",
+      "title": "Hypnotic Dark Techno Mix | Beyond the Dark Horizon | Muzlub",
+      "channel": "MuzLub",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "j7Vepm1U-ms",
+      "title": "Sub Pulse -  Walls Breathe Out (Original mix)  - Dark Techno",
+      "channel": "Sub Pulse",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "L2x5Z4zvroE",
+      "title": "Dark Rave 2026 \ud83d\udda4 What the Darkness Left Behind \u00b7 Peak Time Dark Techno Session",
+      "channel": "KRYA Dark Tech",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "NY2Wk3fLG0k",
+      "title": "HYPNOTIC DARK TECHNO SET 2026 \u26ab Deep Underground | Industrial Minimal | Muzlub",
+      "channel": "MuzLub",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "z7sqonReggA",
+      "title": "Dark Tech House Mix | Hypnotic Underground DJ Set for Night Drive &amp; Deep Focus",
+      "channel": "Shadow House Mixes",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "BcanzZJozgk",
+      "title": "Dark Techno Mix \u2013 Aggressive Industrial Heavy Cyber Beats",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "KL4Pxr2eei4",
+      "title": "Dark Rave 2026 \ud83d\udda4 The Night Pulls You In \u00b7 Peak Time Dark Techno Session",
+      "channel": "KRYA Dark Tech",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "9SyvgScXwyc",
+      "title": "Dark Hypnotic Techno Mix | Greek &amp; Ethnic Underground Session (58 Min) \ud83c\udfdb\ufe0f\ud83d\udd0a",
+      "channel": "Larub Techno Sessions",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Uzs-KVT8hEg",
+      "title": "[Dark Epic Techno] Burning Abyss Orchestra",
+      "channel": "Goth Dark Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Keyword: ai, suno, suno ai"
+      ]
+    },
+    {
+      "video_id": "XfGY_qbJcrA",
+      "title": "Dark Techno Mix / Cyberpunk / Playlist/ Industrial / Electro /  Mix Music /",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "V3vw2YKdjmo",
+      "title": "Best Techno House Progressive &amp; Hard Bass | Dark Hard Techno Mix 2026",
+      "channel": "Grand Sound",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "3gL9kWD9XRo",
+      "title": "2 Hour Dark Techno / EBM / Industrial Mix \u201cYour Dark Side\u201d - CMB Mix 250",
+      "channel": "Cybermode Beats",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "0B2uk1SOsoY",
+      "title": "INDUSTRIAL TECHNO 2026 | Dark Hard Rave Mix &amp; Warehouse Set",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "VJtg7pJO3hQ",
+      "title": "1 Hour Dark Techno / EBM / Industrial Mix \u201cShadow Hunter\u201d",
+      "channel": "Cybermode Beats",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "dflqyI2KXp0",
+      "title": "\ud835\udfed\ud835\udff5\ud835\udff4\ud835\udff5 \ud835\uddea\ud835\uddd4\ud835\udddf\ud835\uddde \ud835\udde7\ud835\udddb\ud835\udde5\ud835\udde2\ud835\udde8\ud835\uddda\ud835\udddb \ud835\uddd9\ud835\udddc\ud835\udde5\ud835\uddd8 // Synthwave, Cyberpunk, Retrowave",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "jXBuBQddrm4",
+      "title": "\ud835\udfee\ud835\udfec\ud835\udff4\ud835\udff4 \ud835\uddd6\ud835\udddf\ud835\uddd8\ud835\uddd4\ud835\udde5 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udded\ud835\udde2\ud835\udde1\ud835\uddd8 // Synthwave, Cyberpunk, Retrowave, Futurewave Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "ZmprkQlhYyA",
+      "title": "\ud835\udfee\ud835\udfec\ud835\udff2\ud835\udff1 \ud835\udde6\ud835\uddd8\ud835\uddd8\ud835\uddde \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd5\ud835\uddd8\ud835\uddec\ud835\udde2\ud835\udde1\ud835\uddd7 // Synthwave, Cyberpunk, Retrowave Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "_Gajv2yJt5M",
+      "title": "\ud835\udfed\ud835\udff5\ud835\udff5\ud835\udff5 \ud835\uddd7\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\udde7 \ud835\udddc\ud835\udde1\ud835\udde7\ud835\udde2 \ud835\udde0\ud835\uddd8\ud835\udde0\ud835\udde2\ud835\udde5\ud835\uddec // Synthwave, Vaporwave, Cyberpunk, Chillwave, Retrowave, Dreamwave Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "jUyk52REKKg",
+      "title": "\ud835\udfed\ud835\udff5\ud835\udff5\ud835\udff5 \ud835\udde0\ud835\udde2\ud835\udde0\ud835\uddd8\ud835\udde1\ud835\udde7\ud835\udde8\ud835\udde0 \ud835\udde2\ud835\udde9\ud835\uddd8\ud835\udde5 \ud835\uddd9\ud835\uddd8\ud835\uddd4\ud835\udde5 // Synthwave, Chillwave, Retrowave, Cyberpunk, Futurewave Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "IAz8bnRB_aY",
+      "title": "\ud835\udfed\ud835\udff5\ud835\udff5\ud835\udff2 \ud835\uddd8\ud835\udde1\ud835\uddd6\ud835\udde5\ud835\uddec\ud835\udde3\ud835\udde7 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udde6\ud835\udde7\ud835\uddd4\ud835\udde5\ud835\udde6 // Synthwave, Cyberpunk, Chillwave, Retrowave, Dreamwave Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "gzSIGlgjJQE",
+      "title": "\ud835\udfee\ud835\udfec\ud835\udff3\ud835\udff3 \ud835\uddd6\ud835\udddb\ud835\udde5\ud835\udde2\ud835\udde0\ud835\uddd8 \ud835\udddb\ud835\uddd8\ud835\uddd4\ud835\udde5\ud835\udde7\ud835\udde6 \ud835\udde2\ud835\udde1\ud835\udddf\ud835\uddec // Synthwave, Chillwave, Retrowave, Cyberpunk Playlist",
+      "channel": "Moebius FM",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "wyovKPny10c",
+      "title": "Dark Techno Mix / Cyberpunk / synthwave / Industrial / Electro /  Mix Music /  Playlist13",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "LJtcMJzgjyE",
+      "title": "\u266b Mercy.exe has Died // Cyberpunk Ambient Music Atmospheric Dark Synthwave",
+      "channel": "Brahman games",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    },
+    {
+      "video_id": "xwyh6yg7rEo",
+      "title": "Phonk Vol 2 - Music Mix 2025 \ud83c\udfb6 1 HOUR PHONK PLAYLIST \ud83c\udfb6",
+      "channel": "SynthWavesZ",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    },
+    {
+      "video_id": "zeKCzmAKKP4",
+      "title": "NO BATID\u00c3O (Slowed)",
+      "channel": "ZXKAI - Topic",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "jfiUl57ZAaI",
+      "title": "\ud83c\udfa7 \ud835\ude48\ud835\ude4f\ud835\ude42 \ud835\ude3f\ud835\ude44\ud835\ude3c\ud835\ude3d\ud835\ude4a\ud835\ude47\ud835\ude44\ud835\ude3e\ud835\ude3c \ud83d\udd25 | \ud835\ude3f\ud835\ude3c\ud835\ude4d\ud835\ude46 \ud835\ude41\ud835\ude50\ud835\ude49\ud835\ude46 + \ud835\ude43\ud835\ude40\ud835\ude3c\ud835\ude51\ud835\ude54 \ud835\ude3d\ud835\ude3c\ud835\ude4e\ud835\ude4e \u26a1 | \ud835\ude3d\ud835\ude4d\ud835\ude3c\ud835\ude55\ud835\ude44\ud835\ude47\ud835\ude44\ud835\ude3c\ud835\ude49 \ud835\ude4b\ud835\ude43\ud835\ude4a\ud835\ude49\ud835\ude46 \ud835\ude51\ud835\ude44\ud835\ude3d\ud835\ude40\ud835\ude4e | \ud835\ude49\ud835\ude40\ud835\ude50\ud835\ude4f\ud835\ude4d\ud835\ude3c\ud835\ude47 \ud835\ude4b\ud835\ude43\ud835\ude4a\ud835\ude49\ud835\ude46\ud835\ude4e",
+      "channel": "NEUTRAL PHONKS",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "uYUbPs2K8FE",
+      "title": "AURA = \u267e\ufe0f | 1 HOUR VIRAL PHONK SONGS 2026 | FAST DRIFT &amp; BRAZILIAN PHONK MIX",
+      "channel": "Astral Phonk",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "M-BHGbGXH14",
+      "title": "Top 5 Latest Phonk Songs 2025 \ud83d\udd25 | Energy Level Phonk Playlist | Must Listen! #explore",
+      "channel": "CINECIPHER",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "cJeb5zfpbf4",
+      "title": "MONTAGEM DIRE\u00c7\u00c3O vs X-COOL! \ud83d\udd25 | Brazilian Funk Phonk Battle | Best Funk Mix 2026",
+      "channel": "PHONK YT",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "76xwxHYaSEw",
+      "title": "MONTAGEM BRAVO - (TIK TOK VERSION) ~ (SUPER SLOWED + REVERB) [BRAZILIAN PHONK] \ud835\ude42\ud835\ude44\ud835\ude4d\ud835\ude47",
+      "channel": "fristok",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "ih_OktudNLA",
+      "title": "AURA = \u267e\ufe0f | 1 HOUR VIRAL BRAZILIAN PHONK SONGS 2026 | AGGRESSIVE MONTAGE MIX",
+      "channel": "Astral Phonk",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "hAc9i-WEIcQ",
+      "title": "Best Of HARD TECHNO 2025 | FULL SET MIX | [4K] NICO MORENO, CHARLOTTE DE WITTE, AMELIE LENS, NOVAH",
+      "channel": "Hard Wind Frequencies",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "F1_jO9wkWiY",
+      "title": "Novah @ Unreal Germany 2025 \u26a1\ud83d\udd25 |  Pure Hard Techno Madness",
+      "channel": "ECHOLOOP",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "mHqxT6jB5Nc",
+      "title": "This is what dreams are made of \u26a1\ufe0f #techno #rave #berlin #hardstyle #dj #epicbass #remix #party",
+      "channel": "BERLIN PULSE",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Z9DCoHlwSRU",
+      "title": "Reflective Rage &amp; Rebel Code - Hardcore Unity",
+      "channel": "Traxtorm Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "mK2x21cgDP4",
+      "title": "Actually Techno Viking #technoviking #techno",
+      "channel": "Occultus Records &amp; Black Square Recordings",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "RU1uAAff024",
+      "title": "\ud83c\udfb5 Chillout/Chillstep Music for Focus \u2014 Enhance Your Concentration",
+      "channel": "Chill Music Lab",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "d0VylX9Ewh0",
+      "title": "NOVAH @ Unreal Germany \ud83c\udde9\ud83c\uddea\u26a1|  Hard Techno Madness &amp; Rave Chaos",
+      "channel": "ECHOLOOP",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "YgXmIq7wjQo",
+      "title": "NOVAH IS ON FIRE\u2026\ud83d\udd25#novah #techno #hardstyle #technoparty #cyprusrave #rave #festival #wecandance",
+      "channel": "Cyprus RAVE",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "Wn9ixbE3wZU",
+      "title": "MELODIC TECHNO MIX 2025 \u26a1 THE BEST EDM SET 2025",
+      "channel": "Deep Flow Techno",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "ilyJvpRBb2g",
+      "title": "Finish what you started with SUNO \ud83d\udd25  #suno #musicproduction #sponsored #ad",
+      "channel": "Misstiq",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    }
+  ]
+}

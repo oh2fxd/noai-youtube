@@ -43,6 +43,19 @@ KEYWORDS = [
 ]
 
 CURATED_CHANNELS = [
+    'techno b34tz',
+    'synthwavesz',
+    'phonk yt',
+    'neutral phonks',
+    'moebius fm',
+    'melodic techno space',
+    'deep flow techno',
+    'cyprus rave',
+    'chill music lab',
+    'cinecipher',
+    'berlin pulse',
+    'atus music',
+    'astral phonk',
     'dolopz',
     'zulvrendeepminimal',
     'wave abyss records',
