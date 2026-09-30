@@ -43,6 +43,23 @@ KEYWORDS = [
 ]
 
 CURATED_CHANNELS = [
+    'dolopz',
+    'zulvrendeepminimal',
+    'wave abyss records',
+    'techno-exe',
+    'techno king',
+    'sub pulse',
+    'midnight sessions',
+    'magic techno',
+    'larub techno sessions',
+    'hypertechfury',
+    'hard wind frequencies',
+    'goth dark techno',
+    'far east echoes',
+    'echoloop',
+    'cybermode beats',
+    'cyberfalco',
+    'chili ai music',
     'muzlub', 'grandsound', 'grand sound', 'krya dark tech', 'amoda session',
     'techno black', 'nocturnal moon session', 'hypnotic night sessions',
     'nocturne echoes', 'dark noir techno', 'wildcore techno', 'shadow house mixes',

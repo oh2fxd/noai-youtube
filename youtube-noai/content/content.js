@@ -85,6 +85,23 @@
 
   // Known / curated AI music & slop channels
   const CURATED_AI_CHANNELS = [
+    'dolopz',
+    'zulvrendeepminimal',
+    'wave abyss records',
+    'techno-exe',
+    'techno king',
+    'sub pulse',
+    'midnight sessions',
+    'magic techno',
+    'larub techno sessions',
+    'hypertechfury',
+    'hard wind frequencies',
+    'goth dark techno',
+    'far east echoes',
+    'echoloop',
+    'cybermode beats',
+    'cyberfalco',
+    'chili ai music',
     'black pulse',
     'muzlub',
     'grandsound',

@@ -1,0 +1,480 @@
+{
+  "total_scanned": 326,
+  "ai_flagged_count": 55,
+  "ai_flagged_percent": 16.87,
+  "execution_time_seconds": 125.91,
+  "reason_breakdown": {
+    "Title Farm Formula": 28,
+    "Curated AI Farm": 10,
+    "Unicode Font Evasion": 6,
+    "Channel Naming Pattern": 16,
+    "Keyword: ai": 2,
+    "ChatGPT Description Formula": 4,
+    "Keyword: ai, suno, suno ai": 1,
+    "AI Channel Name": 2
+  },
+  "sample_ai_videos": [
+    {
+      "video_id": "OBUO0rkeR34",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "lOwNB4uTsv8",
+      "title": "TECHNO BASS MIX 2026 | Dark Club DJ Set &amp; Industrial Rave Playlist",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "50jjXBx5G74",
+      "title": "TECHNO MIX 2024 \ud83c\udfa7 Rave Techno Remixes for Party, Gym, and Car Music",
+      "channel": "Techno King",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "T6DE5ePiNus",
+      "title": "TECHNO MIX 2025\ud83c\udfa7Remixes Of Popular Songs \ud83c\udfa7Techno Bangers",
+      "channel": "Techno-Exe",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "XJktaXYRWBg",
+      "title": "Melodic Techno &amp; Progressive House  Mix 2024  Argy Omnia Monolink Reb\u016bke Daniel Portman Raf Fender",
+      "channel": "Raf Fender",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "_EhW31HKFYs",
+      "title": "Best Techno Track of 2024?",
+      "channel": "Recode Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "ajA62N89_Us",
+      "title": "Deep Techno DJ Mix 2026 | Berlin Edition | Cinematic 4K Visuals",
+      "channel": "Midnight Sessions",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "jzfJWDSPuI8",
+      "title": "\ud83d\udd25 Tech House Festival Mix 2026 | Tech House Club Vibes MIX 2026 by doLopz | HIGH FREQUENCY | 140 BPM",
+      "channel": "doLopz",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "I_2N0NlN_Ok",
+      "title": "Deep Techno DJ Mix 2026 | Amsterdam Edition | Cinematic 4K Visuals",
+      "channel": "Midnight Sessions",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "V3vw2YKdjmo",
+      "title": "Best Techno House Progressive &amp; Hard Bass | Dark Hard Techno Mix 2026",
+      "channel": "Grand Sound",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "qPaINaq_yYI",
+      "title": "Who\u2019s dad is this?\ud83e\udd23\u2665\ufe0f\ud83d\ude4f #dancemusic #technodance #music #ravinglifestyle #gettogether #rave #dj",
+      "channel": "Get Together Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Q7fsnXNV5E4",
+      "title": "Don&#39;t Worry Be Happy (Underground Techno Mix) - Dark Club Edit | DJ NANDA #Shorts",
+      "channel": "DJ NANDA",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: ai"
+      ]
+    },
+    {
+      "video_id": "Y4B__SJg-xI",
+      "title": "Dark Techno Mix / Cyberpunk Music / hard techno / Industrial / Electro /  Mix Music /  Playlist16",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Bfo-gYpUj3E",
+      "title": "Dj Novah - Techno mix 2025",
+      "channel": "WAVE ABYSS RECORDS",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "9SyvgScXwyc",
+      "title": "Dark Hypnotic Techno Mix | Greek &amp; Ethnic Underground Session (58 Min) \ud83c\udfdb\ufe0f\ud83d\udd0a",
+      "channel": "Larub Techno Sessions",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "TEnZVpgJq0s",
+      "title": "Raw / Deep / Hypnotic Underground Techno Mix 37 [ Teaser 2/3 ] Schbpur",
+      "channel": "Schbpur Techno Mixes | Pure Raw Deep Hypnotic |",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "5ZBgx1NeUWg",
+      "title": "Techno Mix \u2013 March 2019 \u2013\u00a0by Extatic",
+      "channel": "Human Music",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "uQRd6t29Giw",
+      "title": "Dark Tech House 2026 | Hypnotic Underground Set | Nightclub Dark Mix",
+      "channel": "Nocturnal Moon Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "L2x5Z4zvroE",
+      "title": "Dark Rave 2026 \ud83d\udda4 What the Darkness Left Behind \u00b7 Peak Time Dark Techno Session",
+      "channel": "KRYA Dark Tech",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "EJqFjvKF8HU",
+      "title": "DARK HOUSE 2025 \ud83d\udda4 Deep Hypnotic Electronic Experience",
+      "channel": "Amoda Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "j7Vepm1U-ms",
+      "title": "Sub Pulse -  Walls Breathe Out (Original mix)  - Dark Techno",
+      "channel": "Sub Pulse",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "8hxrzhin2Ek",
+      "title": "Hypnotic Dark Techno Mix | Beyond the Dark Horizon | Muzlub",
+      "channel": "MuzLub",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "NY2Wk3fLG0k",
+      "title": "HYPNOTIC DARK TECHNO SET 2026 \u26ab Deep Underground | Industrial Minimal | Muzlub",
+      "channel": "MuzLub",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "wyovKPny10c",
+      "title": "Dark Techno Mix / Cyberpunk / synthwave / Industrial / Electro /  Mix Music /  Playlist13",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Uzs-KVT8hEg",
+      "title": "[Dark Epic Techno] Burning Abyss Orchestra",
+      "channel": "Goth Dark Techno",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: ai, suno, suno ai"
+      ]
+    },
+    {
+      "video_id": "VJtg7pJO3hQ",
+      "title": "1 Hour Dark Techno / EBM / Industrial Mix \u201cShadow Hunter\u201d",
+      "channel": "Cybermode Beats",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "0B2uk1SOsoY",
+      "title": "INDUSTRIAL TECHNO 2026 | Dark Hard Rave Mix &amp; Warehouse Set",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "39mgpTO33j8",
+      "title": "Ti\u00ebsto - In My Memory (Sadrican 2026 Remix) | Progressive Rework",
+      "channel": "Sadrican",
+      "is_ai": true,
+      "reasons": [
+        "Unicode Font Evasion"
+      ]
+    },
+    {
+      "video_id": "1FfD2S5Zj0k",
+      "title": "DARK TECHNO BASSLINE 2026 | Underground DJ Set &amp; Nightclub Mood Energy",
+      "channel": "Techno black",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "Y8GQu22z9ZY",
+      "title": "Best Of HARD TECHNO 2026 | FULL SET LIVE MIX | NOVAH, CHARLOTTE DE WITTE, TOMORROWLAND, NICO MORENO",
+      "channel": "Hard Wind Frequencies",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "zMQQZSPjV0g",
+      "title": "Melodic Techno  2026 | Original Tracks \u2022 Deep Bass &amp; Hypnotic Grooves | Deep Zulvren",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "H-eiW2p0CZo",
+      "title": "Melodic Techno  2026 | Original Tracks \u2022 Deep Bass &amp; Hypnotic Grooves | Deep Zulvren",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "3gL9kWD9XRo",
+      "title": "2 Hour Dark Techno / EBM / Industrial Mix \u201cYour Dark Side\u201d - CMB Mix 250",
+      "channel": "Cybermode Beats",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Twgzy5IRQg8",
+      "title": "Melodic Techno 2026 \u2013 Edge of Civilization | Deep Atmospheric Techno Mix",
+      "channel": "Chili AI Music",
+      "is_ai": true,
+      "reasons": [
+        "AI Channel Name"
+      ]
+    },
+    {
+      "video_id": "8c9YLbWAhAo",
+      "title": "Techno Mix 2026 \ud83d\udd25 Nonstop Techno #techno2026 #technomusic #technotronic #viraltechno #technomusicmix",
+      "channel": "Tech House For Life",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "enZEKL3vHzM",
+      "title": "Hypnotic Techno Mix 2026 | Immersive Rhythms For Night Driving #techno #hypnotic #nightdriving",
+      "channel": "Chili AI Music",
+      "is_ai": true,
+      "reasons": [
+        "AI Channel Name"
+      ]
+    },
+    {
+      "video_id": "_PKTsY2V2A0",
+      "title": "Techno Mix 2026\ud83d\ude09\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming \ud83d\udd25Hyper Techno Remix",
+      "channel": "Hyper Queen",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "-zLZcalQ3gE",
+      "title": "\ud83d\udd25 LIVE TECHNO MIX 2026 \u26a1 RAVE VIBES",
+      "channel": "DJ Galactic",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "OMOJmcqu0_E",
+      "title": "HERE THE LIFE BEGIN | Peak Time AI Techno 2026 - CyberFalco #shorts",
+      "channel": "CyberFalco",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: ai"
+      ]
+    },
+    {
+      "video_id": "3p2cShoV37s",
+      "title": "Melodic Techno  2026 | Original Tracks \u2022 Deep Bass &amp; Hypnotic Grooves | Deep Zulvren",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "N_-L8DZvVqo",
+      "title": "Deborah De Luca @ Elrow Town Italy 2026 \ud83c\udfaa\ud83d\udda4 Dark Techno Set | Iren Green Park, Reggio Emilia",
+      "channel": "WorldMixNation",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "GiYjcIP5d-E",
+      "title": "Lilly Palmer @ Sunice Festival 2025 \u2744\ufe0f\ud83d\udd25 | Melodic &amp; Hard Techno Energy",
+      "channel": "ECHOLOOP",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "n3PEyLBe9tc",
+      "title": "Charlotte de Witte LIVE Hard Techno 2025 \ud83d\udd25 | Dark Industrial Drop | Peak Time Festival Energy \u26a1",
+      "channel": "GlobalTechno",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "RXRp87BuQyY",
+      "title": "Techno Mix 2025\ud83e\udd18Best Nonstop Techno Songs For Party, Gym, Gaming\ud83d\udd25Hyper Techno Remix - Best EDM ...",
+      "channel": "Vladyslav",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "9AebJVTMUYc",
+      "title": "TRANCE BASS BOOSTED (2025) \ud83d\udd25 ELECTRO HOUSE SHORTS \ud83c\udfa7 BEST BASS TEST REMIX #TRANCE #SHORTS2025",
+      "channel": "BASS BOOSTED MUSIC",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "ZvOYI9_T3-Q",
+      "title": "Techno Mix 2025 \ud83c\udfa7 Remixes of Popular Songs \ud83c\udfa7 Techno Bangers #014",
+      "channel": "Magic Techno",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "QOFBp55K-2k",
+      "title": "Melodic Techno 2026 | Original Tracks \u2022 Deep Bass &amp; Hypnotic Grooves | Deep Zulvren #electronicmusic",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "hAc9i-WEIcQ",
+      "title": "Best Of HARD TECHNO 2025 | FULL SET MIX | [4K] NICO MORENO, CHARLOTTE DE WITTE, AMELIE LENS, NOVAH",
+      "channel": "Hard Wind Frequencies",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "b7QLHZ_n7Yc",
+      "title": "Peak Time Techno Live HOR Berlin Radio Session",
+      "channel": "KHELI",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "SSF1UzTs90w",
+      "title": "\ud83c\udfa7\u2666\ufe0fTECHNO MUSIC MIX 2025 \ud83c\udfa7\u2666\ufe0f Remix of Popular Songs \ud83c\udfa7\u2666\ufe0f OnlyTechno Bangers",
+      "channel": "Techno music",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    }
+  ]
+}
