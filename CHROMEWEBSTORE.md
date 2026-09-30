@@ -53,6 +53,13 @@ Permanently blacklist AI content farms with a single click. Blocked channels and
 • Zero analytics, zero telemetry, zero data collection.
 • Operates exclusively on youtube.com with minimal permissions.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+☕ SUPPORT & DONATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+NoAI for YouTube is 100% free, privacy-focused, and open source with zero telemetry.
+If this extension helps keep your feed clean, consider supporting ongoing maintenance and filter updates:
+https://www.paypal.com/paypalme/dxdroid
+
 Take back your recommendations and support authentic human creators with NoAI for YouTube.
 ```
 

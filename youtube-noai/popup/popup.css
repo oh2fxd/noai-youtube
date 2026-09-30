@@ -278,3 +278,18 @@ textarea:focus {
   align-items: center;
   gap: 4px;
 }
+
+.donate-link {
+  color: #fbbf24;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  transition: color 0.15s ease;
+}
+
+.donate-link:hover {
+  color: #f59e0b;
+  text-decoration: underline;
+}

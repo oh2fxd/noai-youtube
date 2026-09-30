@@ -62,3 +62,13 @@ To create a clean distribution ZIP excluding development files:
 python3 package_extension.py
 ```
 This generates `youtube-noai-brave.zip` ready for store submission or sharing.
+
+---
+
+## ☕ Support & Donations
+
+NoAI for YouTube is 100% free and open-source. If you find this extension helpful in keeping your feed free of automated AI content:
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/paypalme/dxdroid)
+
+[Donate via PayPal (paypal.me/dxdroid)](https://www.paypal.com/paypalme/dxdroid) — 73 de OH2FXD

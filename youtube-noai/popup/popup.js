@@ -127,4 +127,13 @@ document.addEventListener('DOMContentLoaded', async () => {
       saveStatus.textContent = '';
     }, 2000);
   });
+
+  const donateLink = document.getElementById('donate-link');
+  if (donateLink) {
+    donateLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      chrome.tabs.create({ url: donateLink.href });
+    });
+  }
 });
+
