@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NoAI for YouTube</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <div class="title-row">
+      <img src="../icons/icon-48.png" alt="NoAI Logo" class="logo">
+      <div class="titles">
+        <h2>NoAI YouTube</h2>
+        <span class="sub">AI Detector & Blocker</span>
+      </div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="master-toggle" checked>
+      <span class="slider round"></span>
+    </label>
+  </div>
+
+  <div class="content" id="main-content">
+    <div class="section">
+      <label class="section-title">When AI Content is Detected:</label>
+      <div class="action-grid">
+        <label class="radio-card">
+          <input type="radio" name="action-choice" value="hide" checked>
+          <div class="card-inner">
+            <span class="icon">🚫</span>
+            <span class="name">Hide</span>
+          </div>
+        </label>
+        <label class="radio-card">
+          <input type="radio" name="action-choice" value="blur">
+          <div class="card-inner">
+            <span class="icon">👁️</span>
+            <span class="name">Blur</span>
+          </div>
+        </label>
+        <label class="radio-card">
+          <input type="radio" name="action-choice" value="tag">
+          <div class="card-inner">
+            <span class="icon">🏷️</span>
+            <span class="name">Tag</span>
+          </div>
+        </label>
+      </div>
+    </div>
+
+    <div class="section">
+      <label class="section-title">Detection Methods</label>
+      <div class="checkbox-group">
+        <label class="checkbox-label">
+          <input type="checkbox" id="detect-official" checked>
+          <span>YouTube Official AI Labels</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" id="detect-keywords" checked>
+          <span>AI Keywords & Hashtags</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" id="detect-curated" checked>
+          <span>Community AI Farm Database</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" id="detect-heuristics" checked>
+          <span>AI Content-Farm Signatures</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" id="enable-quick-block" checked>
+          <span>1-Click "Block AI" on Cards</span>
+        </label>
+        <label class="checkbox-label">
+          <input type="checkbox" id="detect-channels" checked>
+          <span>Custom Channel Blacklist</span>
+        </label>
+      </div>
+    </div>
+
+    <div class="section">
+      <details>
+        <summary>Manage Keywords & Channels</summary>
+        <div class="details-body">
+          <label class="sub-label">Keywords / Hashtags (comma separated):</label>
+          <textarea id="keywords-input" rows="3" placeholder="#ai, #midjourney, #suno, sora..."></textarea>
+
+          <label class="sub-label" style="margin-top: 8px;">Blocked Channels (one per line):</label>
+          <textarea id="channels-input" rows="3" placeholder="Channel Name..."></textarea>
+          
+          <button id="save-advanced" class="btn-save">Save Filters</button>
+          <span id="save-status" class="save-status"></span>
+        </div>
+      </details>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span class="brave-badge">🦁 Optimized for Brave</span>
+    <span class="version">v1.0.0</span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
