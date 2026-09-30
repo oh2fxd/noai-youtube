@@ -215,6 +215,22 @@
   transform: scale(1.03) !important;
 }
 
+.noai-banner-allow-btn {
+  background: #10b981 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 5px 12px !important;
+  font-size: 12px !important;
+  font-weight: 800 !important;
+  cursor: pointer !important;
+  transition: background 0.15s ease, transform 0.1s ease !important;
+}
+.noai-banner-allow-btn:hover {
+  background: #059669 !important;
+  transform: scale(1.03) !important;
+}
+
 #noai-watch-banner .noai-banner-close {
   cursor: pointer !important;
   background: none !important;

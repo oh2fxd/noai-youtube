@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const detectChannels = document.getElementById('detect-channels');
   const keywordsInput = document.getElementById('keywords-input');
   const channelsInput = document.getElementById('channels-input');
+  const whitelistInput = document.getElementById('whitelist-input');
   const saveBtn = document.getElementById('save-advanced');
   const saveStatus = document.getElementById('save-status');
 
@@ -56,7 +57,8 @@ document.addEventListener('DOMContentLoaded', async () => {
       'ki generiert', 'generado por ia', 'hecho con ia', 'généré par ia', 'создано ии', 'нейросеть',
       'ai生成', '画像生成ai', '音楽生成ai'
     ],
-    customChannels: []
+    customChannels: [],
+    whitelistedChannels: []
   });
 
   masterToggle.checked = data.enabled;
@@ -75,6 +77,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   keywordsInput.value = (data.customKeywords || []).join(', ');
   channelsInput.value = (data.customChannels || []).join('\n');
+  if (whitelistInput) {
+    whitelistInput.value = (data.whitelistedChannels || []).join('\n');
+  }
 
   // Immediate save on toggles
   masterToggle.addEventListener('change', async () => {
@@ -116,10 +121,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   saveBtn.addEventListener('click', async () => {
     const rawKeywords = keywordsInput.value.split(',').map(s => s.trim()).filter(Boolean);
     const rawChannels = channelsInput.value.split('\n').map(s => s.trim()).filter(Boolean);
+    const rawWhitelist = whitelistInput ? whitelistInput.value.split('\n').map(s => s.trim()).filter(Boolean) : [];
 
     await chrome.storage.sync.set({
       customKeywords: rawKeywords,
-      customChannels: rawChannels
+      customChannels: rawChannels,
+      whitelistedChannels: rawWhitelist
     });
 
     saveStatus.textContent = 'Saved!';

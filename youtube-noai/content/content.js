@@ -80,7 +80,8 @@
       'ki generiert', 'generado por ia', 'hecho con ia', 'généré par ia', 'создано ии', 'нейросеть',
       'ai生成', '画像生成ai', '音楽生成ai'
     ],
-    customChannels: []
+    customChannels: [],
+    whitelistedChannels: []
   };
 
   // Known / curated AI music & slop channels
@@ -231,6 +232,19 @@
     const channelHandle = normalizeText(rawChannelHandle).toLowerCase();
 
     if (channelName || channelHandle) {
+      // 0. User Whitelisted Channels Check
+      if (config.whitelistedChannels && config.whitelistedChannels.length > 0) {
+        for (const w of config.whitelistedChannels) {
+          const lowerW = normalizeText(w).toLowerCase();
+          if (
+            (channelName && (channelName === lowerW || channelName.includes(lowerW))) ||
+            (channelHandle && (channelHandle === lowerW || channelHandle.includes(lowerW)))
+          ) {
+            return { isAI: false, isWhitelisted: true };
+          }
+        }
+      }
+
       // User custom channel blacklist
       if (config.detectChannelList && config.customChannels && config.customChannels.length > 0) {
         for (const target of config.customChannels) {
@@ -618,6 +632,32 @@
   }
 
   // Watch page comprehensive AI detection & warning banner
+  function handleWhitelistChannel(card) {
+    const info = getCardChannelInfo(card);
+    if (!info || !info.name) return;
+
+    const channelName = info.name;
+    const channelHandle = info.handle;
+
+    let changed = false;
+    const lowerName = channelName.toLowerCase();
+    if (!config.whitelistedChannels.some(c => c.toLowerCase() === lowerName)) {
+      config.whitelistedChannels.push(channelName);
+      changed = true;
+    }
+    if (channelHandle && !config.whitelistedChannels.some(c => c.toLowerCase() === channelHandle.toLowerCase())) {
+      config.whitelistedChannels.push(channelHandle);
+      changed = true;
+    }
+
+    if (changed) {
+      chrome.storage.sync.set({ whitelistedChannels: config.whitelistedChannels }, () => {
+        processAllCards();
+      });
+      processAllCards();
+    }
+  }
+
   function checkWatchPage() {
     if (!location.pathname.startsWith('/watch')) {
       const existingBanner = document.getElementById('noai-watch-banner');
@@ -650,6 +690,7 @@
           </div>
           <div class="noai-banner-actions">
             <button class="noai-banner-block-btn" type="button" title="Block this AI Channel">🚫 Block Channel</button>
+            <button class="noai-banner-allow-btn" type="button" title="Whitelist this channel if false positive">💚 Allow Channel</button>
             <button class="noai-banner-close" type="button" title="Dismiss">&times;</button>
           </div>
         `;
@@ -663,6 +704,16 @@
           handleBlockChannel(watchPrimary);
           banner.remove();
         });
+
+        const allowBtn = banner.querySelector('.noai-banner-allow-btn');
+        if (allowBtn) {
+          allowBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            handleWhitelistChannel(watchPrimary);
+            banner.remove();
+          });
+        }
 
         const target = document.querySelector('#above-the-fold, #owner');
         if (target && target.parentElement) {
