@@ -65,10 +65,13 @@ This generates `youtube-noai-brave.zip` ready for store submission or sharing.
 
 ---
 
-## ☕ Support & Donations
+## ☕ Support & Sponsorship
 
 NoAI for YouTube is 100% free and open-source. If you find this extension helpful in keeping your feed free of automated AI content:
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/oh2fxd)
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/paypalme/dxdroid)
 
-[Donate via PayPal (paypal.me/dxdroid)](https://www.paypal.com/paypalme/dxdroid) — 73 de OH2FXD
+- **GitHub Sponsors**: [github.com/sponsors/oh2fxd](https://github.com/sponsors/oh2fxd)
+- **PayPal**: [paypal.me/dxdroid](https://www.paypal.com/paypalme/dxdroid) — 73 de OH2FXD
+
