@@ -1,0 +1,3169 @@
+{
+  "total_genres": 54,
+  "total_videos_evaluated": 858,
+  "total_ai_flagged": 164,
+  "overall_ai_pct": 19.11,
+  "elapsed_seconds": 104.3,
+  "genre_stats": {
+    "Dark Techno": {
+      "total": 18,
+      "ai_count": 4,
+      "ai_pct": 22.22
+    },
+    "Industrial Techno": {
+      "total": 16,
+      "ai_count": 3,
+      "ai_pct": 18.75
+    },
+    "Peak Time Techno": {
+      "total": 17,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Minimal Techno": {
+      "total": 18,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Acid Techno": {
+      "total": 17,
+      "ai_count": 2,
+      "ai_pct": 11.76
+    },
+    "Melodic Techno": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Deep House": {
+      "total": 19,
+      "ai_count": 19,
+      "ai_pct": 100.0
+    },
+    "Tech House": {
+      "total": 20,
+      "ai_count": 3,
+      "ai_pct": 15.0
+    },
+    "Progressive House": {
+      "total": 19,
+      "ai_count": 9,
+      "ai_pct": 47.37
+    },
+    "Afro House": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Trance": {
+      "total": 19,
+      "ai_count": 2,
+      "ai_pct": 10.53
+    },
+    "Psytrance": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Hardstyle": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Drum and Bass": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Dubstep": {
+      "total": 16,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Synthwave": {
+      "total": 19,
+      "ai_count": 19,
+      "ai_pct": 100.0
+    },
+    "Cyberpunk": {
+      "total": 17,
+      "ai_count": 17,
+      "ai_pct": 100.0
+    },
+    "Dark Ambient": {
+      "total": 16,
+      "ai_count": 16,
+      "ai_pct": 100.0
+    },
+    "Lofi Hip Hop": {
+      "total": 18,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Relaxing Piano": {
+      "total": 17,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Meditation 528Hz": {
+      "total": 20,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Nature Sounds": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Binaural Beats": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "ASMR": {
+      "total": 14,
+      "ai_count": 14,
+      "ai_pct": 100.0
+    },
+    "Space Ambient": {
+      "total": 18,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Solfeggio Frequencies": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Chillhop": {
+      "total": 18,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Drift Phonk": {
+      "total": 15,
+      "ai_count": 2,
+      "ai_pct": 13.33
+    },
+    "Memphis Phonk": {
+      "total": 16,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Aggressive Phonk Gym": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Trap Metal": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Modern Trap": {
+      "total": 16,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Cloud Rap": {
+      "total": 8,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Underground Rap": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Instrumental Hip Hop": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "R&B Soul": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Heavy Metal": {
+      "total": 11,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Thrash Metal": {
+      "total": 9,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Gothic Rock": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Post Rock": {
+      "total": 15,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Shoegaze": {
+      "total": 12,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Pop Punk": {
+      "total": 10,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Indie Rock": {
+      "total": 14,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Progressive Metal": {
+      "total": 6,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Alternative Rock": {
+      "total": 9,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Classical Piano": {
+      "total": 16,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Smooth Jazz": {
+      "total": 19,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Bossa Nova": {
+      "total": 18,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Nordic Folk": {
+      "total": 16,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Celtic Folk": {
+      "total": 18,
+      "ai_count": 1,
+      "ai_pct": 5.56
+    },
+    "Suno AI Music": {
+      "total": 15,
+      "ai_count": 15,
+      "ai_pct": 100.0
+    },
+    "Udio AI Songs": {
+      "total": 17,
+      "ai_count": 17,
+      "ai_pct": 100.0
+    },
+    "AI Cover Songs": {
+      "total": 3,
+      "ai_count": 3,
+      "ai_pct": 100.0
+    },
+    "AI Voice Clones": {
+      "total": 18,
+      "ai_count": 18,
+      "ai_pct": 100.0
+    }
+  },
+  "marker_aggregates": {
+    "top_emojis": [
+      [
+        "♫",
+        8
+      ],
+      [
+        "🔥",
+        5
+      ],
+      [
+        "️",
+        4
+      ],
+      [
+        "✖",
+        3
+      ],
+      [
+        "🎶",
+        3
+      ],
+      [
+        "🎧",
+        2
+      ],
+      [
+        "➤",
+        2
+      ],
+      [
+        "⚫",
+        2
+      ],
+      [
+        "★",
+        2
+      ],
+      [
+        "⚡",
+        2
+      ],
+      [
+        "🔔",
+        1
+      ],
+      [
+        "🌱",
+        1
+      ],
+      [
+        "🍓",
+        1
+      ],
+      [
+        "🧪",
+        1
+      ],
+      [
+        "☢",
+        1
+      ],
+      [
+        "💚",
+        1
+      ],
+      [
+        "🖤",
+        1
+      ],
+      [
+        "💤",
+        1
+      ],
+      [
+        "🔊",
+        1
+      ],
+      [
+        "☆",
+        1
+      ],
+      [
+        "✨",
+        1
+      ],
+      [
+        "🧈",
+        1
+      ],
+      [
+        "💯",
+        1
+      ],
+      [
+        "🌈",
+        1
+      ],
+      [
+        "🌌",
+        1
+      ],
+      [
+        "🏝",
+        1
+      ],
+      [
+        "💖",
+        1
+      ],
+      [
+        "🎹",
+        1
+      ],
+      [
+        "🎸",
+        1
+      ],
+      [
+        "☃",
+        1
+      ],
+      [
+        "☁",
+        1
+      ]
+    ],
+    "top_hashtags": [
+      [
+        "#1",
+        6
+      ],
+      [
+        "#2",
+        6
+      ],
+      [
+        "#3",
+        4
+      ],
+      [
+        "#4",
+        3
+      ],
+      [
+        "#music",
+        3
+      ],
+      [
+        "#phonk",
+        2
+      ],
+      [
+        "#musicplaylist",
+        2
+      ],
+      [
+        "#EmotionalMix",
+        1
+      ],
+      [
+        "#DeepHouse",
+        1
+      ],
+      [
+        "#13",
+        1
+      ],
+      [
+        "#NightDrive",
+        1
+      ],
+      [
+        "#HouseMusic2024",
+        1
+      ],
+      [
+        "#RelaxingMusic",
+        1
+      ],
+      [
+        "#deephouse",
+        1
+      ],
+      [
+        "#soulfulhouse",
+        1
+      ],
+      [
+        "#89",
+        1
+      ],
+      [
+        "#DeepHouseMix2026",
+        1
+      ],
+      [
+        "#ChillDeepHouse",
+        1
+      ],
+      [
+        "#HardTechno",
+        1
+      ],
+      [
+        "#TechnoHouse",
+        1
+      ],
+      [
+        "#HardTrance",
+        1
+      ],
+      [
+        "#6",
+        1
+      ],
+      [
+        "#7",
+        1
+      ],
+      [
+        "#5",
+        1
+      ],
+      [
+        "#asmrmakeup",
+        1
+      ],
+      [
+        "#makeupthings",
+        1
+      ],
+      [
+        "#DeepFocusMusic",
+        1
+      ],
+      [
+        "#CinematicAmbient",
+        1
+      ],
+      [
+        "#swz",
+        1
+      ],
+      [
+        "#englishsongs",
+        1
+      ],
+      [
+        "#aicover",
+        1
+      ],
+      [
+        "#sweetlove",
+        1
+      ],
+      [
+        "#song",
+        1
+      ],
+      [
+        "#sunoai",
+        1
+      ],
+      [
+        "#aimusicgenerator",
+        1
+      ],
+      [
+        "#SunoAI",
+        1
+      ],
+      [
+        "#AIMusic",
+        1
+      ],
+      [
+        "#Suno",
+        1
+      ]
+    ],
+    "writing_patterns": [
+      [
+        "Dive into a deep hypnotic journey",
+        2
+      ],
+      [
+        "Travel Beyond the Dark Horizon",
+        1
+      ],
+      [
+        "Welcome to a deep, dark and hypnotic",
+        1
+      ]
+    ],
+    "title_features": [
+      [
+        "Year Tag",
+        37
+      ]
+    ],
+    "channel_styles": [
+      [
+        "Content Farm Naming",
+        5
+      ]
+    ],
+    "detection_sources": [
+      [
+        "YouTube AI Disclosure",
+        132
+      ],
+      [
+        "Curated AI Farm",
+        30
+      ],
+      [
+        "AI Channel",
+        1
+      ],
+      [
+        "Keyword: CREATED USING AI",
+        1
+      ]
+    ]
+  },
+  "flagged_sample_details": [
+    {
+      "id": "7MHgdIu7FlI",
+      "genre": "Deep House",
+      "title": "Deep House Mix 2026 | AIMusic house «Soft Collision»",
+      "channel": "Titan Beats",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#EmotionalMix",
+          "#DeepHouse",
+          "#13",
+          "#NightDrive"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": [
+          "Content Farm Naming"
+        ]
+      }
+    },
+    {
+      "id": "ZCbMzDclnEM",
+      "genre": "Deep House",
+      "title": "DEEP HOUSE MIX 2025",
+      "channel": "Music Brokers",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "K7d-c9BhWUc",
+      "genre": "Deep House",
+      "title": "Deep House Mix 2024 | Deep House, Vocal House, Nu Disco, Chillout by Deep Melodies #1",
+      "channel": "Deep Melodies",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🔔"
+        ],
+        "hashtags": [
+          "#1"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "sPk2viKd0cE",
+      "genre": "Deep House",
+      "title": "Deep House Mix 2026 | Emotional Night Drive, Vocal House, Nu Disco | Chill Mood",
+      "channel": "After 2AM",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "N6DW31S_oyI",
+      "genre": "Deep House",
+      "title": "Mega Hits 2025 🌱 The Best Of Vocal Deep House Music Mix 2025 🌱 Summer Music Mix 2025 #4",
+      "channel": "Helios Deep",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🌱"
+        ],
+        "hashtags": [
+          "#HouseMusic2024",
+          "#4",
+          "#RelaxingMusic"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "c_L0A3tieWY",
+      "genre": "Deep House",
+      "title": "Deep & Soul Grooves 143 Mixed By DysFonik | South Africa | Deep House Mix 2026 | Soulful DSG Vol 143",
+      "channel": "DysFonik",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#deephouse",
+          "#soulfulhouse"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Vm0lZAelVAk",
+      "genre": "Deep House",
+      "title": "Chris Luno - Ibiza Deep House Mix @ Ocean Drive Talamanca",
+      "channel": "OD Hotels",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "M40Z5RPokT8",
+      "genre": "Deep House",
+      "title": "Deep House Mix 2026 - Vocal House, Nu Disco & Late Night Deep House",
+      "channel": "Luxury Deep House",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "ul3Q6sP_k88",
+      "genre": "Deep House",
+      "title": "Deep House Mix 2026 | smooth Vocal House, Nu Disco & Late Night Energy",
+      "channel": "Midnight Deep Vibes",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "vWg8id0M6R0",
+      "genre": "Deep House",
+      "title": "Deep House Mix - Minimal Groove, Tech House",
+      "channel": "puredeephouse",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "V8IIc7mrOCw",
+      "genre": "Deep House",
+      "title": "Need You Near | Emotional Deep House, Vocal House & Chillout | Male Vocal Mix",
+      "channel": "Quietly Yours",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "05KE_uVkkSo",
+      "genre": "Deep House",
+      "title": "Best of Deep House [2026] | Giza Night Drive | Melodic & Atmospheric Smooth Mix | NAVHOUSE",
+      "channel": "NAVHOUSE and Purple Neon House",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "v9VBw--nkLM",
+      "genre": "Deep House",
+      "title": "Smoke Mood - Just Relax | Chill House & Deep House Mix 🎧 Chill / Night Vibes Vol 229 / Stress Relief",
+      "channel": "ChillNight Melody",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🎧",
+          "➤"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "FkYAIpV_6co",
+      "genre": "Deep House",
+      "title": "Gentleman - Deep House Mix [Touch & Feel] Vol.17",
+      "channel": "Gentleman",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "m_GoB8SFOeM",
+      "genre": "Deep House",
+      "title": "sunset deep house mix",
+      "channel": "vascoprod",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "yEASFhtzSMQ",
+      "genre": "Deep House",
+      "title": "Smoke Mood - Just Relax | Chill House & Deep House Mix 🎧 Chill Night House / Stress Relief #89",
+      "channel": "Chill Night House",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🎧",
+          "➤"
+        ],
+        "hashtags": [
+          "#89"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "QhMs-t7EhXY",
+      "genre": "Deep House",
+      "title": "Best Deep House Songs Of All Time - Deep House Vibes 2026 | Tropical House Journey",
+      "channel": " Inner Deep Radio",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#DeepHouseMix2026",
+          "#ChillDeepHouse"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "sVE0IyjJ3aQ",
+      "genre": "Deep House",
+      "title": "Vibey Deep House Mix 2024 | Mix by Yaman Khadzi | Selected Mix 2024 | Deep House Mix 2024 | Ibiza",
+      "channel": "Vibey Deep House Radio (VDHR)",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "oi_HoZkprPw",
+      "genre": "Deep House",
+      "title": "Ibiza Summer Mix 2026 🍓 Best Of Tropical Deep House Music Chill Out Mix 2025 🍓 Chillout Lounge",
+      "channel": "Magic Club",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🍓"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "jzfJWDSPuI8",
+      "genre": "Tech House",
+      "title": "🔥 Tech House Festival Mix 2026 | Tech House Club Vibes MIX 2026 by doLopz | HIGH FREQUENCY | 140 BPM",
+      "channel": "doLopz",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🔥"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "SAjm1KHhoMw",
+      "genre": "Tech House",
+      "title": "🔥 Underground Tech House 2026 | Tech House Club Vibes MIX 2026 by doLopz | HIGH FREQUENCY | 140 BPM",
+      "channel": "doLopz",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🔥"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "z7sqonReggA",
+      "genre": "Tech House",
+      "title": "Dark Tech House Mix | Hypnotic Underground DJ Set for Night Drive & Deep Focus",
+      "channel": "Shadow House Mixes",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "NY2Wk3fLG0k",
+      "genre": "Industrial Techno",
+      "title": "HYPNOTIC DARK TECHNO SET 2026 ⚫ Deep Underground | Industrial Minimal | Muzlub",
+      "channel": "MuzLub",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "⚫"
+        ],
+        "hashtags": [],
+        "writing_patterns": [
+          "Dive into a deep hypnotic journey"
+        ],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "3gL9kWD9XRo",
+      "genre": "Industrial Techno",
+      "title": "2 Hour Dark Techno / EBM / Industrial Mix “Your Dark Side” - CMB Mix 250",
+      "channel": "Cybermode Beats",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": [
+          "Content Farm Naming"
+        ]
+      }
+    },
+    {
+      "id": "VJtg7pJO3hQ",
+      "genre": "Industrial Techno",
+      "title": "1 Hour Dark Techno / EBM / Industrial Mix “Shadow Hunter”",
+      "channel": "Cybermode Beats",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": [
+          "Content Farm Naming"
+        ]
+      }
+    },
+    {
+      "id": "H88JxJQBn9s",
+      "genre": "Acid Techno",
+      "title": "New Best ACID TECHNO 🧪 Mix 2026 🔥​ Vol. 21 | Set Modern",
+      "channel": "Acid Techno King",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🔥",
+          "🧪"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "PMkoXUQVuZ8",
+      "genre": "Acid Techno",
+      "title": "New Brutal ACID TECHNO Mix ☢️​ Full Set Aggressive - Vol. 78 💚​|​ Dark Electro 2026",
+      "channel": "Acid Techno King",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "☢",
+          "️",
+          "💚"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "V3vw2YKdjmo",
+      "genre": "Dark Techno",
+      "title": "Best Techno House Progressive & Hard Bass | Dark Hard Techno Mix 2026",
+      "channel": "Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#HardTechno",
+          "#TechnoHouse",
+          "#HardTrance"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "8hxrzhin2Ek",
+      "genre": "Dark Techno",
+      "title": "Hypnotic Dark Techno Mix | Beyond the Dark Horizon | Muzlub",
+      "channel": "MuzLub",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [
+          "Travel Beyond the Dark Horizon"
+        ],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "NY2Wk3fLG0k",
+      "genre": "Dark Techno",
+      "title": "HYPNOTIC DARK TECHNO SET 2026 ⚫ Deep Underground | Industrial Minimal | Muzlub",
+      "channel": "MuzLub",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "⚫"
+        ],
+        "hashtags": [],
+        "writing_patterns": [
+          "Dive into a deep hypnotic journey"
+        ],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "EJqFjvKF8HU",
+      "genre": "Dark Techno",
+      "title": "DARK HOUSE 2025 🖤 Deep Hypnotic Electronic Experience",
+      "channel": "Amoda Session",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🖤"
+        ],
+        "hashtags": [],
+        "writing_patterns": [
+          "Welcome to a deep, dark and hypnotic"
+        ],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": [
+          "Content Farm Naming"
+        ]
+      }
+    },
+    {
+      "id": "iXAbte4QXKs",
+      "genre": "Trance",
+      "title": "♫ Best Uplifting Trance Mix - All Time Favourites #1 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#3",
+          "#1"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "1LrXsP4xSEc",
+      "genre": "Trance",
+      "title": "Best Progressive Trance Mix - All Time Favourites #1",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#1",
+          "#2"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "cUGJ1nLa1Cg",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2026 Vol. #4 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#3",
+          "#4"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "U3SPkP4y-rY",
+      "genre": "Progressive House",
+      "title": "'Night Drive' - Relaxing Deep House & Progressive House Mix",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "QWV0S96hwyo",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2026 Vol. #2 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#3",
+          "#2",
+          "#1"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "9gaxPjnAjTA",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2025 Vol. #1 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#1",
+          "#2"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "mWXpOvWQkkA",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2026 Vol. #1 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#1",
+          "#2"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "rO5psGaBkqk",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2026 Vol. #3 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#3",
+          "#2",
+          "#4"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "VSjTcTo5sn8",
+      "genre": "Progressive House",
+      "title": "'Night Drive' Pt. 3 - Relaxing Deep House & Progressive House Mix",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "SnqKakAM_1A",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix - All Time Favourites Vol. #7 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#6",
+          "#7"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "0JCv9Yqbj1M",
+      "genre": "Progressive House",
+      "title": "♫ Best Progressive House Mix 2021 Vol. #5 ♫",
+      "channel": "The Grand Sound",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "♫"
+        ],
+        "hashtags": [
+          "#5"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "fac0cFJ0hD4",
+      "genre": "ASMR",
+      "title": "💤🔊 2026 BEST RELAXING & SATISFYING ASMR TIKTOK COMPILATION",
+      "channel": "Lovo ASMR",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "💤",
+          "🔊"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Njq04uncvrQ",
+      "genre": "ASMR",
+      "title": "Compilation set★ASMR SOAP★Compilation set★Crushing soap★Cutting soap cubes★FOAM&GLITTER&STARCH★",
+      "channel": "ASMR SOAP YT",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "☆",
+          "★"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "f63gAuLHnBo",
+      "genre": "ASMR",
+      "title": "[ASMR]Compilation set★ASMR SOAP★Crushing soap★Cutting soap cubes★FOAM&GLITTER&STARCH★",
+      "channel": "ASMR SOAP YT",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "★"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "gc1M2ybuODw",
+      "genre": "ASMR",
+      "title": "ASMR 5,000 TRIGGERS WITH FRIENDS | Epic 500k Special Collab",
+      "channel": "Lowe ASMR",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "zZpTPnZnRyQ",
+      "genre": "ASMR",
+      "title": "24 Hours Of Oddly Satisfying Slime ASMR - Relaxing When Stressed Or Sleepy 2025",
+      "channel": "The Best Satisfying",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "7fFjsT26TJ8",
+      "genre": "ASMR",
+      "title": "3 Hours of Viral Satisfying ASMR✨🧈 Wax, Clay, Squishies & More (No talking)",
+      "channel": "miss foxy",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "✨",
+          "🧈"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "W3pS4BxTNkc",
+      "genre": "ASMR",
+      "title": "9 in 1 Video BEST of COLLECTION SLIME 🌈 💯% Satisfying Slime Video 1080p",
+      "channel": "Slime Amazing",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "💯",
+          "🌈"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "yUwtaXC7Tlo",
+      "genre": "ASMR",
+      "title": "ASMR  | TIKTOK Compilation| Part 41 | ASMR for deep sleep",
+      "channel": "ASMR CHILL",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "lcPTDc9vHkE",
+      "genre": "ASMR",
+      "title": "Satisfying Slime ASMR | Relaxing Slime Videos Compilation No Talking No Music No Voiceover",
+      "channel": "Talisa Tossell",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "COytqhQMOH8",
+      "genre": "ASMR",
+      "title": "ASMR Makeup Compilation For Sleep | 1 hour (No Talking) #2",
+      "channel": "Makeup & Makeup Things",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#2",
+          "#asmrmakeup",
+          "#makeupthings"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "xJAEJ2VUpp8",
+      "genre": "ASMR",
+      "title": "ASMR 1000 TRIGGERS WITH FRIENDS l 1 MILLION ASMR SPECIAL",
+      "channel": "Dong ASMR",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "huXFBE5LYQY",
+      "genre": "ASMR",
+      "title": "Women Of ASMR | ASMR Compilation With The Female  Asmrtists",
+      "channel": "ASMR Fusion",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "⚡"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "YFeMeWbGYag",
+      "genre": "ASMR",
+      "title": "100 ASMRTIST In 10 Minutes | Quick cuts  ASMR Compilation",
+      "channel": "ASMR Fusion",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "ozRzXnKKj64",
+      "genre": "ASMR",
+      "title": "2 Hours Of ASMR Compilation |  Best Asmrtists Of YouTube",
+      "channel": "ASMR Fusion",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "O5p2ZX7UU9w",
+      "genre": "Dark Ambient",
+      "title": "forgotten dreams // dark ambient music mix",
+      "channel": "dreamscape",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "v79-sU_ZaJY",
+      "genre": "Dark Ambient",
+      "title": "Reactor - Dark Meditative Ambient - Mysterious Dystopian Music",
+      "channel": "Eternal Dystopia",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Wp-NLTHKymA",
+      "genre": "Dark Ambient",
+      "title": "Stalker's Dreams | Dark Ambient Mix",
+      "channel": "Radiostalker",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "6HMF2rYw4K0",
+      "genre": "Dark Ambient",
+      "title": "Frozen in Time - Dystopian Dark Ambience - Meditative Dark Ambient Music",
+      "channel": "Eternal Dystopia",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "1jtojMtBNdQ",
+      "genre": "Dark Ambient",
+      "title": "MAGNUS DEI || Dark Ambient Music for Deep Focus",
+      "channel": "arcana",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Rv0QsmjIQ_U",
+      "genre": "Dark Ambient",
+      "title": "a coldcore ambient playlist",
+      "channel": "Zerofuturism",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "S7BX93Sicc4",
+      "genre": "Dark Ambient",
+      "title": "TARTARUS || Dark Atmospheric Ambient Music",
+      "channel": "arcana",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#DeepFocusMusic",
+          "#CinematicAmbient"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "wJQzDvoG76Q",
+      "genre": "Dark Ambient",
+      "title": "lost // dark ambient music mix",
+      "channel": "dreamscape",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "CpmAD4gcLMo",
+      "genre": "Dark Ambient",
+      "title": "Dark Ambient Music Mix",
+      "channel": "Cryo Chamber",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "LptTKfrHSi4",
+      "genre": "Dark Ambient",
+      "title": "Dark Ambient Melodies",
+      "channel": "Cryo Chamber",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "ch-HHGuzwRU",
+      "genre": "Dark Ambient",
+      "title": "Dark Ambient Hour Meditations - Circumference (4 Hz Theta Binaural Ambience)",
+      "channel": "Iron Cthulhu Apocalypse",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "roMz1PPslbM",
+      "genre": "Dark Ambient",
+      "title": "escape everything // dark ambient music mix",
+      "channel": "dreamscape",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "CDjQmoZyWYk",
+      "genre": "Dark Ambient",
+      "title": "There Is No Sun (Dark Ambient Mix) [NOT FOR SLEEP]",
+      "channel": "Iron Cthulhu Apocalypse",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Yk2bpo5paPw",
+      "genre": "Dark Ambient",
+      "title": "Dark Space Music for Stellar Nurseries and Molecular Clouds",
+      "channel": "Cryo Chamber",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "jmfh0mm0Tgo",
+      "genre": "Dark Ambient",
+      "title": "Dark Ambient Mix by SiJ",
+      "channel": "Cryo Chamber",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "frxTnVUONjE",
+      "genre": "Dark Ambient",
+      "title": "sometimes, you need to be alone.",
+      "channel": "patient.",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "0QKQlf8r7ls",
+      "genre": "Synthwave",
+      "title": "'Back To The 80's' | Marvel83' Edition | Best of Synthwave And Retro Electro Music Mix",
+      "channel": "ThePrimeThanatos",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "✖"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "6aouLxiL4Cw",
+      "genre": "Synthwave",
+      "title": "B A D L A N D S - A Synthwave Mix for Galactic Explorers | Vol. 1",
+      "channel": "INEXED",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "4xDzrJKXOOY",
+      "genre": "Synthwave",
+      "title": "synthwave radio 🌌 beats to chill/game to",
+      "channel": "Lofi Girl",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🌌"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "QqjVD-qPZ3M",
+      "genre": "Synthwave",
+      "title": "Synthwave Electric Mixtape I   For Study Relax",
+      "channel": "Holod-TV",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "0glfAPfSHmc",
+      "genre": "Synthwave",
+      "title": "| N I G H T    W A R R I O R  | - A NewRetroWave Mix | 1 Hour | Synthwave/ Retrowave/ Darksynth |",
+      "channel": "NewRetroWave",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "qk1nnAHI1mI",
+      "genre": "Synthwave",
+      "title": "'Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 5",
+      "channel": "ThePrimeThanatos",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "✖"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "_Gajv2yJt5M",
+      "genre": "Synthwave",
+      "title": "𝟭𝟵𝟵𝟵 𝗗𝗥𝗜𝗙𝗧 𝗜𝗡𝗧𝗢 𝗠𝗘𝗠𝗢𝗥𝗬 // Synthwave, Vaporwave, Cyberpunk, Chillwave, Retrowave, Dreamwave Playlist",
+      "channel": "Moebius FM",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "iYiTc67nozs",
+      "genre": "Synthwave",
+      "title": "𝟭𝟵𝟵𝟲 𝗡𝗘𝗨𝗥𝗔𝗟 𝗟𝗜𝗡𝗞 𝗕𝗥𝗢𝗞𝗘𝗡 // Retrowave, Synthwave, Vaporwave, Chillwave, Downtempo Playlist",
+      "channel": "Moebius FM",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "snBcA-AqVGk",
+      "genre": "Synthwave",
+      "title": "'Back To The 80's' | Cassetter Edition | Best of Synthwave And Retro Electro Music Mix",
+      "channel": "ThePrimeThanatos",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "✖"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "6xLxC7a1_fU",
+      "genre": "Synthwave",
+      "title": "𝟮𝟬𝟵𝟲 𝗘𝗦𝗖𝗔𝗣𝗘 𝗧𝗛𝗘 𝗗𝗥𝗢𝗡𝗘𝗦 // Dark Synth, Synthwave, Vaporwave, Chillwave, Retrowave Playlist",
+      "channel": "Moebius FM",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "0er2m_JIBdc",
+      "genre": "Synthwave",
+      "title": "Cybercity Part 3 - A Synthwave Mix",
+      "channel": "Odysseus",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "1wBNgz8ciZQ",
+      "genre": "Synthwave",
+      "title": "Synthwave Cyberpunk Mixtape | Volume Three",
+      "channel": "MrSuicideSheep",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "MxGJCjNa-80",
+      "genre": "Synthwave",
+      "title": "| L O S T    N I G H T S  | - A NewRetroWave Mix | 1 Hour | Synthwave/ Retrowave/ Dreamwave |",
+      "channel": "NewRetroWave",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "5WJa4SQu2K8",
+      "genre": "Synthwave",
+      "title": "Purple Skies - The Ultimate  Synthwave Mix",
+      "channel": "Virtua Waves",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Hc_SEDzN23o",
+      "genre": "Synthwave",
+      "title": "Voyage 5 (Chillwave - Synthwave - Retrowave Mix)",
+      "channel": "SoulSearchAndDestroy",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "4sCfII4S3Vw",
+      "genre": "Synthwave",
+      "title": "Radio Silence (Chillwave - Synthwave - Electronic Mix)",
+      "channel": "SoulSearchAndDestroy",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "qObvGNVLNfg",
+      "genre": "Synthwave",
+      "title": "1984: Mechanical Heart // Synthwave, Chillwave, Vaporwave, Outrun, Electronic, Cyberpunk",
+      "channel": "Zyykron Sound",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "fV-YsSnaK48",
+      "genre": "Synthwave",
+      "title": "N E T R U N  𝗩𝗼𝗹. 𝟲  [Synthwave/Retrowave/Cyberpunk MIX]",
+      "channel": "INEXED",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "35scgD4nHqw",
+      "genre": "Synthwave",
+      "title": "MIDNIGHT [ Chillwave - Synthwave - Retrowave Mix ]",
+      "channel": "Odysseus",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "W_cu3mS5UU4",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Breathtaking Mix | by Extra Terra",
+      "channel": "Extra Terra",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "YgU261Zlkco",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Radio 24/7 by NightmareOwl (Cyberpunk/Midtempo/Dark Clubbing/Techno)",
+      "channel": "NightmareOwl Music",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "1wBNgz8ciZQ",
+      "genre": "Cyberpunk",
+      "title": "Synthwave Cyberpunk Mixtape | Volume Three",
+      "channel": "MrSuicideSheep",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "swGy5xIP5x4",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Breathtaking Mix 5 | by Extra Terra",
+      "channel": "Extra Terra",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "b9fUdJdlExU",
+      "genre": "Cyberpunk",
+      "title": "Dark Techno / Industrial / Cyberpunk Mix 'Revenge ll' | Dark Electro",
+      "channel": "Aim To Head Mix",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "_Gajv2yJt5M",
+      "genre": "Cyberpunk",
+      "title": "𝟭𝟵𝟵𝟵 𝗗𝗥𝗜𝗙𝗧 𝗜𝗡𝗧𝗢 𝗠𝗘𝗠𝗢𝗥𝗬 // Synthwave, Vaporwave, Cyberpunk, Chillwave, Retrowave, Dreamwave Playlist",
+      "channel": "Moebius FM",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "ZdZYiEHzwiw",
+      "genre": "Cyberpunk",
+      "title": "After the Noise | Ambient Cyberpunk Electronica for Focus and Imagination",
+      "channel": "Cyber City Moods",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "HEehzNXtDY0",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Radio Mix 6 by NightmareOwl (Electro/Cyberpunk)",
+      "channel": "NightmareOwl Music",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "9Wh-U1dMu-w",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Breathtaking Mix 4 | by Extra Terra (Electro/Cyberpunk)",
+      "channel": "Extra Terra",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "T2QZpy07j4s",
+      "genre": "Cyberpunk",
+      "title": "Music for Work — Deep Future Garage Mix for Concentration",
+      "channel": "Chill Music Lab",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": [
+          "Content Farm Naming"
+        ]
+      }
+    },
+    {
+      "id": "zhdA76etej0",
+      "genre": "Cyberpunk",
+      "title": "City of Overdrive | dark Cyberpunk | deep bass |Future mix",
+      "channel": "Alan Souls",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "wfZzf4mu9f0",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Launch Mix | by Extra Terra",
+      "channel": "Extra Terra",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "IdoWuiCfZoE",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk Music Mix / Aggressive Midtempo / Industrial / Dark Electronic Mix [ Background Music ]",
+      "channel": "Dark Cyber Music ",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "RTRqkDw1QoU",
+      "genre": "Cyberpunk",
+      "title": "FORSAKEN - 1 HOUR Dark Techno / Cyberpunk / Industrial / Darksynth Mix - AXEND",
+      "channel": "AXEND",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "JBUaCTycmlM",
+      "genre": "Cyberpunk",
+      "title": "3 Hour Cyberpunk Industrial Dark Synthwave MIX ETHER Twitch",
+      "channel": "Elicit Chi",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "G3O-zG_9sWk",
+      "genre": "Cyberpunk",
+      "title": "Cyberpunk 2077 Radio Mix 5 by NightmareOwl (Electro/Cyberpunk)",
+      "channel": "NightmareOwl Music",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "c3JR-EUu1hs",
+      "genre": "Cyberpunk",
+      "title": "1 HOUR Cyberpunk Mix / Dark Techno / Midtempo Bass Session | Aim To Head Release [2026]",
+      "channel": "Aim To Head Release",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Ueg-Tl8HnOI",
+      "genre": "Drift Phonk",
+      "title": "DREAMFIRE  - Music Mix 2026 🎶 1 HOUR DRIFT PHONK PLAYLIST 🎶",
+      "channel": "SynthWavesZ",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🎶"
+        ],
+        "hashtags": [
+          "#music",
+          "#phonk",
+          "#musicplaylist",
+          "#swz"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "xwyh6yg7rEo",
+      "genre": "Drift Phonk",
+      "title": "Phonk Vol 2 - Music Mix 2025 🎶 1 HOUR PHONK PLAYLIST 🎶",
+      "channel": "SynthWavesZ",
+      "reason": "Curated AI Farm",
+      "markers": {
+        "emojis": [
+          "🎶"
+        ],
+        "hashtags": [
+          "#music",
+          "#phonk",
+          "#musicplaylist"
+        ],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "4U_AfgFoyHc",
+      "genre": "AI Cover Songs",
+      "title": "Remix Covers of Popular Songs - 100 Hits",
+      "channel": "Music Brokers",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🏝",
+          "️"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "u6G3yvu1KSY",
+      "genre": "AI Cover Songs",
+      "title": "Beat It – Michael Jackson (Heavy Metal AI Cover)",
+      "channel": "Records4Fun and 3 more",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "⚡"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "RTD17zB7tTo",
+      "genre": "AI Cover Songs",
+      "title": "MUSIC TOP 💖HEART💖 I AI COVER I SWEET HEART [ PLAYLIST]",
+      "channel": "LullabiEven",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "💖"
+        ],
+        "hashtags": [
+          "#englishsongs",
+          "#aicover",
+          "#sweetlove",
+          "#music",
+          "#song"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "B5SwWFIqh3U",
+      "genre": "Udio AI Songs",
+      "title": "The Udio 1.5 REMIX Feature Changes Everything - Literally!",
+      "channel": "Bob Doyle Media",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "75UmO5i65c0",
+      "genre": "Udio AI Songs",
+      "title": "I Let AI Remix My Song and This Happened! (Roex AUTOMIX Review)",
+      "channel": "Subphotic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "fK4sW93EA9o",
+      "genre": "Udio AI Songs",
+      "title": "AI-Generated DEEP HOUSE Mix -- UDIO -- AI Music",
+      "channel": "Alex Patrascu",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "k7pkRamjJpI",
+      "genre": "Udio AI Songs",
+      "title": "How to Remix Songs With Udio AI Full Guide 2026",
+      "channel": "How To Fix Pro",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "TDBhbAmO71o",
+      "genre": "Udio AI Songs",
+      "title": "Udio's Ai Remix Tool Is Insane!",
+      "channel": "Chris Unlocks AI",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "ECLy6JnBdoY",
+      "genre": "Udio AI Songs",
+      "title": "The AI Music Race is Over",
+      "channel": "Rick Beato",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "H5fUvZys0Gs",
+      "genre": "Udio AI Songs",
+      "title": "Best AI MUSIC Generator 2026: Suno vs Udio TIER List (20 Tools Tested)",
+      "channel": " Hostcomp",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "KBFEAypTol8",
+      "genre": "Udio AI Songs",
+      "title": "Suno vs Udio: The Best AI Music Maker Showdown of 2025!",
+      "channel": "AI With TechZnap",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "6IlItfVfOkQ",
+      "genre": "Udio AI Songs",
+      "title": "5-Minute AI Music Tutorial | How to Udio",
+      "channel": "Udio",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "6p8e92V27bQ",
+      "genre": "Udio AI Songs",
+      "title": "Use AI to Transform Your Mixes!",
+      "channel": "Streaky",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "uBmLqOTs2jo",
+      "genre": "Udio AI Songs",
+      "title": "A New AI Music King is Here and it's Totally FREE & Unlimited!",
+      "channel": "AI Automation Labs",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#sunoai",
+          "#aimusicgenerator"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "zY1j7xrs0Mo",
+      "genre": "Udio AI Songs",
+      "title": "UDIO AI Dreamscapes Music Mix",
+      "channel": "Celestial Aeon Project celtic music & epic music",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "HSvVXO8Jdfc",
+      "genre": "Udio AI Songs",
+      "title": "🔥 Udio A.I. Music Tutorial: Mix Genres for Hit Songs! 🎹🎸 (Short Context Window)",
+      "channel": "AIMASSIVE",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🎹",
+          "🔥",
+          "🎸"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "4w-F4AQbD5w",
+      "genre": "Udio AI Songs",
+      "title": "The Best AI MUSIC Generator FULL GUIDE! - Udio AI Tutorial",
+      "channel": "AI Andy",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "MsWrMsjOvHQ",
+      "genre": "Udio AI Songs",
+      "title": "Udio v1.5 is INCREDIBLE! Create, Extend and Remix AI Music!",
+      "channel": "Mallane AI Automation",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "YBRfmIRzLoE",
+      "genre": "Udio AI Songs",
+      "title": "Udio Tutorial - How To Make A Full Song -  Detailed Guide",
+      "channel": "Kingy AI",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "9MB0dm0vv2U",
+      "genre": "Udio AI Songs",
+      "title": "The END of AI Music? Udio Falls and Suno AI Might Be Next!",
+      "channel": "AI Automation Labs",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "j7ue2Hri688",
+      "genre": "Suno AI Music",
+      "title": "Suno AI Tutorial – How to Use Suno Studio 2.0 to Create AI Music (Beginner to Pro)",
+      "channel": "AI Master",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "PWrBQRq9JR8",
+      "genre": "Suno AI Music",
+      "title": "Modernist Mixing - How to properly remaster Suno Tracks",
+      "channel": "Modernist Mixing",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "qjdgoe15bP0",
+      "genre": "Suno AI Music",
+      "title": "The Ultimate Suno AI V5 Showcase 🎶 | 16 Different Genres | Official AI Music Mix | 2025",
+      "channel": "Flowal AI Music",
+      "reason": "AI Channel",
+      "markers": {
+        "emojis": [
+          "🎶"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Rz9mYdXYUR4",
+      "genre": "Suno AI Music",
+      "title": "The British patriotic song \"Rule, Britannia!\" | Suno AI Cover",
+      "channel": "Alex",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "S7JpOhFv8E8",
+      "genre": "Suno AI Music",
+      "title": "CYBERPUNK TECHNO MIX 2025| 5 AI-Generated Tracks by Suno AI",
+      "channel": "NeuroTune",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "VL2hcVtpWe4",
+      "genre": "Suno AI Music",
+      "title": "GPT-6 Astra + Suno Ai is F*CKING INSANE",
+      "channel": "ChillPanic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "R8cqaUY_3hs",
+      "genre": "Suno AI Music",
+      "title": "I Fed My Music to Suno AI — This is What Happened",
+      "channel": "Roberto Ostinelli",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "telKRGQn8FE",
+      "genre": "Suno AI Music",
+      "title": "Suno Ai MASH UP is INSANE! (Here's How to Use It)",
+      "channel": "ChillPanic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "jZcawrBfzn8",
+      "genre": "Suno AI Music",
+      "title": "Inventing TERRIBLE AI Music Genres (Suno V4.5)",
+      "channel": "Dan Dingle",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "️",
+          "☃"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "BuG2sr3iDk0",
+      "genre": "Suno AI Music",
+      "title": "[playlist] dreamy cozy pop songs made with Suno AI ☁️",
+      "channel": "씨씨 (Cassette Cloud)",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "☁",
+          "️"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Mkv9Gb83VTU",
+      "genre": "Suno AI Music",
+      "title": "Suno AI GOD MODE: How to Master Suno Ai in 24 Minutes",
+      "channel": "ChillPanic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "KcsbnEQfMCQ",
+      "genre": "Suno AI Music",
+      "title": "How to Skip Copyright in Suno Remixes Without Getting Blocked",
+      "channel": "Esential Music Productions",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [
+          "#SunoAI",
+          "#AIMusic",
+          "#Suno"
+        ],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "5uRKmDnljSY",
+      "genre": "Suno AI Music",
+      "title": "How to Remix Songs in Suno AI Full Guide 2026",
+      "channel": "How To Fix Pro",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "WGd-dyT1Aw8",
+      "genre": "Suno AI Music",
+      "title": "I gave my demo to Suno AI… and this is what it did.",
+      "channel": "Jamie Aplin",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "78RsxTkd6yg",
+      "genre": "Suno AI Music",
+      "title": "27 Minutes of AI Hip‑Hop — 10 Suno Tracks with Nicki/Cardi Vibes",
+      "channel": "SunoMusic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "W-fbPRAH1ys",
+      "genre": "Celtic Folk",
+      "title": "This Epic Celtic Song Will Give You Chills! | The Echo of the Glen",
+      "channel": "MUSIC-AND-SONGS",
+      "reason": "Keyword: CREATED USING AI",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "TV-NVRKtHVo",
+      "genre": "AI Voice Clones",
+      "title": "How to Get High-Quality AI Voice Clones for Music | Kits.ai Best Practices",
+      "channel": "Kits AI",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "AiRksVoiUAI",
+      "genre": "AI Voice Clones",
+      "title": "How to Clone Your Voice with AI - Realistic AI Voice Clones (Full Tutorial)",
+      "channel": "ElevenLabs",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "vHuPWQz9AlI",
+      "genre": "AI Voice Clones",
+      "title": "The dark side of AI voice cloning",
+      "channel": "Jeff Geerling",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "PyMx4L9mky4",
+      "genre": "AI Voice Clones",
+      "title": "Clone Your Voice with AI for FREE Open-Source Alternative to ElevenLabs",
+      "channel": "mikbes",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "vhArHsfsLAQ",
+      "genre": "AI Voice Clones",
+      "title": "The Secrets Behind Voice Cloning & AI Covers",
+      "channel": "bycloud",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "c1icEmuXtXY",
+      "genre": "AI Voice Clones",
+      "title": "Suno AI Voice Cloning Trick That Actually Works",
+      "channel": "ChillPanic",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "YSOxJIRaaNE",
+      "genre": "AI Voice Clones",
+      "title": "Clone Any Voice FREE: AI Voice Cloning Tutorial (Unlimited!)",
+      "channel": "Learn with Kuru",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "iEdS_xke-mk",
+      "genre": "AI Voice Clones",
+      "title": "5 Best AI Voice Cloning Tools of 2024",
+      "channel": "Elegant Themes",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [
+          "Year Tag"
+        ],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "eExdDa1kgaM",
+      "genre": "AI Voice Clones",
+      "title": "AI Voice Cloning for Musicians: What You Can Really Do With It",
+      "channel": "Songs By Spencer",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "uC7Y8irf174",
+      "genre": "AI Voice Clones",
+      "title": "AI Voice Cloning - Top 3 Tools",
+      "channel": "Mike Russell",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "IqiT2WzQLok",
+      "genre": "AI Voice Clones",
+      "title": "🔥 Suno AI Voice Cloning HACK Exposed!: What They Don't Tell You!! 🔥",
+      "channel": "AI MEGA VAULT",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [
+          "🔥"
+        ],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "8uq0e_i17FE",
+      "genre": "AI Voice Clones",
+      "title": "How To Merge AI Voice Models: Create UNIQUE Voices & Avoid Copyright",
+      "channel": "AI Search",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "E-dHYiEcWN8",
+      "genre": "AI Voice Clones",
+      "title": "Local AI voice cloning",
+      "channel": "No place like localhost",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "9L5ueTtJU8s",
+      "genre": "AI Voice Clones",
+      "title": "I Tested 2 AI Vocal Cloning Tools - Here's What I Found using Kits.AI & Audimee",
+      "channel": "Thom Shepherd",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Oheo4Q5IJP4",
+      "genre": "AI Voice Clones",
+      "title": "I Cloned My Voice with AI… and Made It Sing | ACE Studio 2.0",
+      "channel": "Music Marketing TV",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "Jo5nIjales4",
+      "genre": "AI Voice Clones",
+      "title": "Protect Yourself From AI Voice Cloning: A Guide for Performers",
+      "channel": "Voquent",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "fkK7HSSCGbg",
+      "genre": "AI Voice Clones",
+      "title": "AI Voice Cloning Scam: The Trick That Fools 58% of People",
+      "channel": "The Opt Out Project",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    },
+    {
+      "id": "2UG8gdcyR-o",
+      "genre": "AI Voice Clones",
+      "title": "How to Create Your Own Voice Clone | LALAL.AI Tutorial",
+      "channel": "LALAL AI",
+      "reason": "YouTube AI Disclosure",
+      "markers": {
+        "emojis": [],
+        "hashtags": [],
+        "writing_patterns": [],
+        "title_features": [],
+        "channel_style": []
+      }
+    }
+  ]
+}

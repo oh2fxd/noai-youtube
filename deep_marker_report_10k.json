@@ -1,0 +1,42 @@
+{
+  "total_inspected": 0,
+  "total_ai_flagged": 0,
+  "ai_flagged_pct": 0.0,
+  "elapsed_seconds": 978.77,
+  "cluster_stats": {
+    "Techno & Electronic": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Ambient, Piano & Relaxation": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Phonk, Trap & Gym": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Lofi & Chill Beats": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "AI Music & Synthetic Media": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    }
+  },
+  "marker_aggregates": {
+    "top_emojis": [],
+    "top_hashtags": [],
+    "writing_patterns": [],
+    "title_features": [],
+    "channel_styles": [],
+    "disclosure_sources": []
+  },
+  "flagged_videos_detail": []
+}

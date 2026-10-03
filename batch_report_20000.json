@@ -1,0 +1,220 @@
+{
+  "total_harvested_urls": 7499,
+  "harvested_music_urls": 5571,
+  "harvested_non_music_urls": 1928,
+  "total_evaluated": 328,
+  "total_ai_flagged": 18,
+  "ai_flagged_music_count": 18,
+  "ai_flagged_music_pct": 5.14,
+  "ai_flagged_non_music_count": 0,
+  "ai_flagged_non_music_pct": 0.0,
+  "execution_time_seconds": 112.56,
+  "discovered_ai_channels_count": 12,
+  "discovered_ai_channels": [
+    "Acid Techno King",
+    "CyberFalco",
+    "Deepfield Echoes",
+    "Eurodance Anos 90",
+    "KHELI",
+    "Kroluk Audio AI",
+    "LiquidHour DnB",
+    "Superstition Records",
+    "Synthetic Signals",
+    "Ultra Records",
+    "Winrix Beat",
+    "ZUL Ambient"
+  ],
+  "reasons_music_breakdown": {
+    "AI Channel Name": 2,
+    "Channel Naming Pattern": 3,
+    "Keyword": 5,
+    "Title Farm Formula": 7,
+    "Curated AI Farm": 4
+  },
+  "reasons_non_music_breakdown": {},
+  "sample_ai_videos": [
+    {
+      "video_id": "G8BJFMJkCug",
+      "category": "Music",
+      "title": "Home Beneath Jupiter Suite | Atmospheric Space Music (Ambient)",
+      "channel": "Synthetic Signals",
+      "is_ai": true,
+      "reasons": [
+        "AI Channel Name"
+      ]
+    },
+    {
+      "video_id": "tV60LxIV-FQ",
+      "category": "Music",
+      "title": "Deep Space Relaxation TRACK 09: ANTI-MATTER WIND",
+      "channel": "Deepfield Echoes",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "a0o4K_fydv4",
+      "category": "Music",
+      "title": "1 Hour Atmospheric Space Ambient (Focus, Coding &amp; Relaxing #2 Teaser)",
+      "channel": "Kroluk Audio AI",
+      "is_ai": true,
+      "reasons": [
+        "AI Channel Name"
+      ]
+    },
+    {
+      "video_id": "Y-Fz6UKpGnE",
+      "category": "Music",
+      "title": "SILENT COLOSSUS || Dark Ambient Cinematic Soundscape",
+      "channel": "ZUL Ambient",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: ai, midjourney, suno, suno ai"
+      ]
+    },
+    {
+      "video_id": "-f7SU3hezQw",
+      "category": "Music",
+      "title": "90s Eurodance MIX 💖Dance Remix Party Hits 2026 🔥 Nonstop Party Club Mix &amp; DJ Music",
+      "channel": "Winrix Beat",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "TYi6fD8w8Zc",
+      "category": "Music",
+      "title": "90s Eurodance MIX 💖Dance Remix Party Hits 2026 🔥 Nonstop Party Club Mix &amp; DJ Music",
+      "channel": "Winrix Beat",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "JCIyyyQb9W8",
+      "category": "Music",
+      "title": "90s Eurodance MIX 💖Dance Remix Party Hits 2026 🔥 Nonstop Party Club Mix &amp; DJ Music #eurodance",
+      "channel": "Winrix Beat",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "_VOQ1pvMlIU",
+      "category": "Music",
+      "title": "NEW EURODANCE MEGAMIX 🔥 Top Party Hit 2025 🔥 90s Eurodance Best Hits Megamix 🔥 Dj Ramezz",
+      "channel": "Eurodance Anos 90",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "FGH8rnraxoE",
+      "category": "Music",
+      "title": "Motorcycle - As The Rush Comes (OFFICIAL VIDEO)",
+      "channel": "Ultra Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "fHW65jtBJ78",
+      "category": "Music",
+      "title": "Rave Classics Rewind: 90s Techno &amp; Trance You Need to Hear!",
+      "channel": "Superstition Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "b7QLHZ_n7Yc",
+      "category": "Music",
+      "title": "Peak Time Techno Live HOR Berlin Radio Session",
+      "channel": "KHELI",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "OMOJmcqu0_E",
+      "category": "Music",
+      "title": "HERE THE LIFE BEGIN | Peak Time AI Techno 2026 - CyberFalco #shorts",
+      "channel": "CyberFalco",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Keyword: ai"
+      ]
+    },
+    {
+      "video_id": "zPTUXvjEFqo",
+      "category": "Music",
+      "title": "INSANE Acid Techno Mix 2026 💀​ | Full Underground Set 🔥",
+      "channel": "Acid Techno King",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "e45WD92Csq8",
+      "category": "Music",
+      "title": "New Underground Acid Techno 2026 🔥 | 303 Acid Bassline",
+      "channel": "Acid Techno King",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "eL2JwiYe4bM",
+      "category": "Music",
+      "title": "New ACID TECHNO 🧪 Full TB303 Warehouse Mix 2026 🔥​ Vol. 69 | Set Modern",
+      "channel": "Acid Techno King",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "qnIjptlnFcU",
+      "category": "Music",
+      "title": "Warm liquid drum and bass for logging off and switching your brain off",
+      "channel": "LiquidHour DnB",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    },
+    {
+      "video_id": "vXCJy7t8ulM",
+      "category": "Music",
+      "title": "Relaxing liquid drum and bass and the slow burn of a quiet night",
+      "channel": "LiquidHour DnB",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    },
+    {
+      "video_id": "u76NB4no79c",
+      "category": "Music",
+      "title": "Deep liquid drum and bass and the quiet that comes with it",
+      "channel": "LiquidHour DnB",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno"
+      ]
+    }
+  ]
+}

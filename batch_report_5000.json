@@ -1,0 +1,305 @@
+{
+  "total_scanned": 239,
+  "ai_flagged_count": 28,
+  "ai_flagged_percent": 11.72,
+  "execution_time_seconds": 502.08,
+  "discovered_ai_channels_count": 23,
+  "discovered_ai_channels": [
+    "Amoda Session",
+    "Autektone Records",
+    "Best bluetooth music 🎶",
+    "BrutishHeavyMusic",
+    "Convida Records",
+    "Cosmicleaf Records",
+    "CyberFalco",
+    "DJ Galactic",
+    "Dark Noir Techno",
+    "Distortion_MUSIC [Bass Boosted]",
+    "Goroni Mixes",
+    "Grand Sound",
+    "Hyper Queen",
+    "HyperTechFury",
+    "KHELI",
+    "NOX Sessions",
+    "Niko *Hard Techno &amp; Edm",
+    "Techno B34tz",
+    "Techno Hyper",
+    "UNDERLIGHT RECORDS",
+    "ZulvrenDeepMinimal",
+    "Øro",
+    "𝐌𝐎𝐇𝐀𝐍 𝐃𝐉 𝐑𝐀𝐒𝐔𝐋𝐀𝐁𝐀𝐃"
+  ],
+  "reason_breakdown": {
+    "Curated AI Farm": 12,
+    "Title Farm Formula": 18,
+    "Channel Naming Pattern": 7,
+    "Keyword": 2,
+    "ChatGPT Description Formula": 1
+  },
+  "sample_ai_videos": [
+    {
+      "video_id": "OBUO0rkeR34",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "Jkj00egSRtY",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "Techno Hyper",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "XZr_pGybeWA",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix 005",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "-zLZcalQ3gE",
+      "title": "🔥 LIVE TECHNO MIX 2026 ⚡ RAVE VIBES",
+      "channel": "DJ Galactic",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "rpx66ae9bn0",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix 1",
+      "channel": "Techno B34tz",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "WACY82stNto",
+      "title": "⚡ This Is Techno Mix 2026 ⚡",
+      "channel": "Autektone Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "JkY-pvLeVjs",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "_PKTsY2V2A0",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "Hyper Queen",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "Cbvm3WenS5A",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "hL6zqooQzWY",
+      "title": "THE WINTER ARC MIX 2026 ❄️ Techno Remixes Of Popular Songs ❄️ Best Winter Techno Music Mix",
+      "channel": "BrutishHeavyMusic",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "V3vw2YKdjmo",
+      "title": "Best Techno House Progressive &amp; Hard Bass | Dark Hard Techno Mix 2026",
+      "channel": "Grand Sound",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "lOwNB4uTsv8",
+      "title": "TECHNO BASS MIX 2026 | Dark Club DJ Set &amp; Industrial Rave Playlist",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "OIlZ66C-9_M",
+      "title": "Hard Techno Mix 2026 🔥 EDM DJ Set #djset #hardtechnomix #rave #asot #electronicmusic #dance",
+      "channel": "Niko *Hard Techno &amp; Edm",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "DCpheaHVD90",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "b7QLHZ_n7Yc",
+      "title": "Peak Time Techno Live HOR Berlin Radio Session",
+      "channel": "KHELI",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "EPRXUJuOmrw",
+      "title": "CHARLOTTE DE WITTE TECHNO MIX 2026  ⚡Remixes Of Popular Songs⚡Techno Bangers 💣  AMELIE LENS",
+      "channel": "Øro",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "OMOJmcqu0_E",
+      "title": "HERE THE LIFE BEGIN | Peak Time AI Techno 2026 - CyberFalco #shorts",
+      "channel": "CyberFalco",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Keyword: ai"
+      ]
+    },
+    {
+      "video_id": "ilX_p3KcZ-s",
+      "title": "Nebulae Waves, Moryla - Rivages Dorés",
+      "channel": "Convida Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "Z6L2J3XzO4s",
+      "title": "I- One - Dubhouse",
+      "channel": "Cosmicleaf Records",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "EJqFjvKF8HU",
+      "title": "DARK HOUSE 2025 🖤 Deep Hypnotic Electronic Experience",
+      "channel": "Amoda Session",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm",
+        "Title Farm Formula",
+        "Channel Naming Pattern",
+        "ChatGPT Description Formula"
+      ]
+    },
+    {
+      "video_id": "ATx3ybs66_A",
+      "title": "BASS BOOSTED (2024)_TRANCE 🎧 BASS TEST 🔊 ELECTRO         HOUSE MIX 2024 #BASSBOOSTED.....#DJ MOHAN",
+      "channel": "𝐌𝐎𝐇𝐀𝐍 𝐃𝐉 𝐑𝐀𝐒𝐔𝐋𝐀𝐁𝐀𝐃",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "7FO4pw3U8og",
+      "title": "Deep Minimal Techno 2026, Melodic Techno Mix, Afterlife Style, Techno Stream, Night Drive Music.",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "-r3qxZPoLsM",
+      "title": "🔥CAR MUSIC 2024🔥BEST EDM, ELECTRO, HOUSE MUSIC MIX💥",
+      "channel": "Distortion_MUSIC [Bass Boosted]",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    },
+    {
+      "video_id": "POk3j5T2Ge4",
+      "title": "Deep Minimal Techno 2026, Melodic Techno Mix, Afterlife Style, Chill Techno Stream",
+      "channel": "ZulvrenDeepMinimal",
+      "is_ai": true,
+      "reasons": [
+        "Curated AI Farm"
+      ]
+    },
+    {
+      "video_id": "Sy1c9Sfh2Rg",
+      "title": "Dancing in the Rain at a Rave 🌧️🔥 | BOUNCE - Electro House #shorts",
+      "channel": "UNDERLIGHT RECORDS",
+      "is_ai": true,
+      "reasons": [
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "tXfFxA1C2z0",
+      "title": "MINIMAL TECHNO MIX | 126 BPM Club",
+      "channel": "Goroni Mixes",
+      "is_ai": true,
+      "reasons": [
+        "Keyword: suno",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "WkBCHlbL9zA",
+      "title": "Minimal Atmosphere//////Deep Minimal 2026 🌑 Hypnotic Underground Groove | Dark Minimal House Mix",
+      "channel": "NOX Sessions",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula",
+        "Channel Naming Pattern"
+      ]
+    },
+    {
+      "video_id": "IVS-5UiLC-s",
+      "title": "BASS boosted (2024)_TRANCE🔥BASS TEST 😈 ELECTRO HOUSE MIX 2024 #BASSBOOSTED#TRANCE #SHOT2024",
+      "channel": "Best bluetooth music 🎶",
+      "is_ai": true,
+      "reasons": [
+        "Title Farm Formula"
+      ]
+    }
+  ]
+}

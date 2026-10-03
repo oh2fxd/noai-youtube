@@ -1,0 +1,851 @@
+{
+  "total_genres": 60,
+  "total_videos_inspected": 325,
+  "total_ai_flagged": 60,
+  "overall_ai_pct": 18.46,
+  "elapsed_seconds": 336.9,
+  "genre_stats": {
+    "Techno": {
+      "total": 37,
+      "ai_count": 12,
+      "ai_pct": 32.43
+    },
+    "Tech House": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Deep House": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Progressive House": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Afro House": {
+      "total": 46,
+      "ai_count": 18,
+      "ai_pct": 39.13
+    },
+    "Trance": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Psytrance": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Hardstyle": {
+      "total": 5,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Drum and Bass": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Dubstep": {
+      "total": 44,
+      "ai_count": 2,
+      "ai_pct": 4.55
+    },
+    "Electro Pop": {
+      "total": 45,
+      "ai_count": 6,
+      "ai_pct": 13.33
+    },
+    "Synthwave": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Cyberpunk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Eurodance": {
+      "total": 48,
+      "ai_count": 7,
+      "ai_pct": 14.58
+    },
+    "EDM Mainstage": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Lofi Hip Hop": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Dark Ambient": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Meditation 528Hz": {
+      "total": 35,
+      "ai_count": 4,
+      "ai_pct": 11.43
+    },
+    "Relaxing Piano": {
+      "total": 55,
+      "ai_count": 10,
+      "ai_pct": 18.18
+    },
+    "Nature Sounds": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Chillhop": {
+      "total": 10,
+      "ai_count": 1,
+      "ai_pct": 10.0
+    },
+    "Binaural Beats": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "ASMR": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Space Ambient": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Solfeggio Frequencies": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Drift Phonk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Memphis Phonk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Boom Bap Hip Hop": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Trap Metal": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Modern Trap": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Cloud Rap": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "R&B Soul": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Drill": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Underground Rap": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Instrumental Hip Hop": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Heavy Metal": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Thrash Metal": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Gothic Rock": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Post Rock": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Shoegaze": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Pop Punk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Indie Rock": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Progressive Metal": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Alternative Rock": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Hard Rock": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Classical Piano": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Baroque Orchestra": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Smooth Jazz": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Bossa Nova": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Nordic Pagan Folk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Celtic Folk": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Flamenco Guitar": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Afrobeat": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Indian Classical Sitar": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Reggae Dub": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "AI Drake Voice Clones": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Suno AI Music": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "Udio AI Songs": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "AI Covers": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    },
+    "ChatGPT Music Farms": {
+      "total": 0,
+      "ai_count": 0,
+      "ai_pct": 0.0
+    }
+  },
+  "ai_flagged_samples": [
+    {
+      "id": "ks9ZdSGYK3g",
+      "genre": "Relaxing Piano",
+      "title": "Tranquil Bamboo Retreat | Relaxing Piano Music",
+      "channel": "Dany HOGAKU",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=ks9ZdSGYK3g"
+    },
+    {
+      "id": "mYNzi2mdzbU",
+      "genre": "Relaxing Piano",
+      "title": "10 Relaxing Piano Music for Sleep, Work &amp; Meditation 🌿 Zen • Yoga • Spa   4K Nature Lake",
+      "channel": "RelaxKing Music",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=mYNzi2mdzbU"
+    },
+    {
+      "id": "wxphBEE-LFU",
+      "genre": "Relaxing Piano",
+      "title": "&quot;Cozy Lofi Piano Mix 🎹 Music for Studying, Sleep &amp; Chill&quot;",
+      "channel": "Chill Rabbit",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=wxphBEE-LFU"
+    },
+    {
+      "id": "K86Hei28pXE",
+      "genre": "Relaxing Piano",
+      "title": "Delicate Contentment Rest — Clear Pebbles | Relaxing Piano Music",
+      "channel": "Hening Relaxation",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=K86Hei28pXE"
+    },
+    {
+      "id": "5HWnkujnyFM",
+      "genre": "Relaxing Piano",
+      "title": "Blooming Garden Walk 🌸 Peaceful Piano for Relaxation",
+      "channel": "INNER LUXCEAN",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=5HWnkujnyFM"
+    },
+    {
+      "id": "UCHBzU0EixQ",
+      "genre": "Relaxing Piano",
+      "title": "Blooming Flower Journey 🌸 Peaceful Piano for Relaxation",
+      "channel": "INNER LUXCEAN",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=UCHBzU0EixQ"
+    },
+    {
+      "id": "pwiwgYhq7UA",
+      "genre": "Relaxing Piano",
+      "title": "Peaceful Piano &amp; Nature 🌿🌙 | Relax Your Mind &amp; Sleep",
+      "channel": "Relaxing Night",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=pwiwgYhq7UA"
+    },
+    {
+      "id": "WI5dx3jwJTI",
+      "genre": "Relaxing Piano",
+      "title": "Give Yourself an Hour to Unwind 🌌🎧 | Relaxing Piano Music for Reading &amp; Peaceful Moments",
+      "channel": "goodmorningnebula",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=WI5dx3jwJTI"
+    },
+    {
+      "id": "cvkAcjP4x-g",
+      "genre": "Relaxing Piano",
+      "title": "Gentle Piano for Sweet Afternoon Dreams 😴😪 #calmmusic #peaceful #pianomusic #relaxingmusic #calm",
+      "channel": "Calmora",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=cvkAcjP4x-g"
+    },
+    {
+      "id": "JEpcCv-HWRw",
+      "genre": "Relaxing Piano",
+      "title": "Relaxing Piano Music for Sleep, Work &amp; Meditation 🌿 Zen • Yoga • Spa   4K Nature Lake",
+      "channel": "RelaxKing Music",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=JEpcCv-HWRw"
+    },
+    {
+      "id": "mIChQV1IPao",
+      "genre": "Electro Pop",
+      "title": "Best of Electro Pop 2000s - 2010s 🔥 | David Guetta, Avicii, LMFAO, BEP, Katy Perry &amp; More Party Hits",
+      "channel": "cakti pushkala",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=mIChQV1IPao"
+    },
+    {
+      "id": "kM0ZZ4016MQ",
+      "genre": "Electro Pop",
+      "title": "Popular Electro Pop Songs of 2000s &amp; 2010s: Lady Gaga, Avicii, Zedd",
+      "channel": "Smash Radio Hits",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=kM0ZZ4016MQ"
+    },
+    {
+      "id": "Y5sLF1FgvTQ",
+      "genre": "Electro Pop",
+      "title": "LUX — Electro House Mix ⚡ | Gritty Retro-Futuristic",
+      "channel": "DJ LUX",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=Y5sLF1FgvTQ"
+    },
+    {
+      "id": "K70UhpRtJxk",
+      "genre": "Electro Pop",
+      "title": "Bet you can&#39;t mute this - electric nostalgia mix",
+      "channel": "Popit Music",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=K70UhpRtJxk"
+    },
+    {
+      "id": "pvliy8YVp1A",
+      "genre": "Electro Pop",
+      "title": "BLACK THUNDER BASS VOL #021 💀 | EXTREME BASS | FESTIVAL EDM",
+      "channel": "SOUND BLAST🎶FEEL THE SOUND, FEEL THE POWER⚡",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=pvliy8YVp1A"
+    },
+    {
+      "id": "WcEw9TocujA",
+      "genre": "Electro Pop",
+      "title": "DANCE! [Full Set] KEYSTORM | Top Pop Music Hardstyle feat. Piano 2026 | Brutal Bass Drops #shorts",
+      "channel": "DJ Lana Luxe",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=WcEw9TocujA"
+    },
+    {
+      "id": "V3vw2YKdjmo",
+      "genre": "Techno",
+      "title": "Best Techno House Progressive &amp; Hard Bass | Dark Hard Techno Mix 2026",
+      "channel": "Grand Sound",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=V3vw2YKdjmo"
+    },
+    {
+      "id": "lOwNB4uTsv8",
+      "genre": "Techno",
+      "title": "TECHNO BASS MIX 2026 | Dark Club DJ Set &amp; Industrial Rave Playlist",
+      "channel": "Dark Noir Techno",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=lOwNB4uTsv8"
+    },
+    {
+      "id": "50jjXBx5G74",
+      "genre": "Techno",
+      "title": "TECHNO MIX 2024 🎧 Rave Techno Remixes for Party, Gym, and Car Music",
+      "channel": "Techno King",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=50jjXBx5G74"
+    },
+    {
+      "id": "i6f1RxZzD1Q",
+      "genre": "Techno",
+      "title": "EDM Mashup Mix 2026 | Best Mashups &amp; Remixes of Popular Songs - Electro House &amp; Techno Music",
+      "channel": "daveepa",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=i6f1RxZzD1Q"
+    },
+    {
+      "id": "z_7F9q7EIoI",
+      "genre": "Techno",
+      "title": "Deep Melodic Techno &amp; Trance Journey – Hypnotic Mix for Travel",
+      "channel": "Luma Beats Street",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=z_7F9q7EIoI"
+    },
+    {
+      "id": "ajA62N89_Us",
+      "genre": "Techno",
+      "title": "Deep Techno DJ Mix 2026 | Berlin Edition | Cinematic 4K Visuals",
+      "channel": "Midnight Sessions",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=ajA62N89_Us"
+    },
+    {
+      "id": "CKhCGpkz3t0",
+      "genre": "Techno",
+      "title": "WINTER x Rondo Alla Turca | Vivaldi and Mozart Reborn with Techno Music ⚡| REMIX",
+      "channel": "Christmas Rhythm",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=CKhCGpkz3t0"
+    },
+    {
+      "id": "Bfo-gYpUj3E",
+      "genre": "Techno",
+      "title": "Dj Novah - Techno mix 2025",
+      "channel": "WAVE ABYSS RECORDS",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=Bfo-gYpUj3E"
+    },
+    {
+      "id": "6IwTDmi4-YQ",
+      "genre": "Techno",
+      "title": "TECHNO MIX 2024 🎧 Rave Techno Remixes for Party, Gym, and Car Music",
+      "channel": "Techno King",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=6IwTDmi4-YQ"
+    },
+    {
+      "id": "G8PtlyXlBpk",
+      "genre": "Techno",
+      "title": "Tchaikovsky Techno Mix (Inspired by Pyotr Ilyich Tchaikovsky) – Elegant Violin for Deep Focus",
+      "channel": "Nebula Frequencies",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=G8PtlyXlBpk"
+    },
+    {
+      "id": "azX4VrXoiNE",
+      "genre": "Eurodance",
+      "title": "Eurodance 2000 Flashback 🎧 Club Mix Playlist 💿",
+      "channel": "Music Beats",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=azX4VrXoiNE"
+    },
+    {
+      "id": "OBUO0rkeR34",
+      "genre": "Techno",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=OBUO0rkeR34"
+    },
+    {
+      "id": "pUB2jbu-vcY",
+      "genre": "Eurodance",
+      "title": "🔥 Ultimate 90s Eurodance Megamix | Nonstop Retro Dance Party 2026 #eurodance #besteurodance",
+      "channel": "Winrix Beat",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=pUB2jbu-vcY"
+    },
+    {
+      "id": "TI0eyt1gvEg",
+      "genre": "Eurodance",
+      "title": "90s Eurodance Is Back 🔥 | 1996",
+      "channel": "Newrodance",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=TI0eyt1gvEg"
+    },
+    {
+      "id": "FfkVTKswJvw",
+      "genre": "Eurodance",
+      "title": "90s Eurodance MIX 💖Dance Remix Party Hits 2026 🔥 Nonstop Party Club Mix &amp; DJ Music #eurodance",
+      "channel": "Winrix Beat",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=FfkVTKswJvw"
+    },
+    {
+      "id": "7ngYm3nMzLU",
+      "genre": "Eurodance",
+      "title": "Sonexis - Open Your Eyes (Energy Eurodance Mix)",
+      "channel": "MariusMusic",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=7ngYm3nMzLU"
+    },
+    {
+      "id": "Y4B__SJg-xI",
+      "genre": "Techno",
+      "title": "Dark Techno Mix / Cyberpunk Music / hard techno / Industrial / Electro /  Mix Music /  Playlist16",
+      "channel": "FAR EAST ECHOES",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=Y4B__SJg-xI"
+    },
+    {
+      "id": "Fj_wM2Mrzns",
+      "genre": "Eurodance",
+      "title": "Is Your Boss CRAZY? Do THIS! 🔥 New EURODANCE!",
+      "channel": "TurboNation",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=Fj_wM2Mrzns"
+    },
+    {
+      "id": "wHUap9Lo3EA",
+      "genre": "Eurodance",
+      "title": "What If Eurodance Never Left the 90s? | 1996",
+      "channel": "Newrodance",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=wHUap9Lo3EA"
+    },
+    {
+      "id": "j7wV8QpQ1iM",
+      "genre": "Meditation 528Hz",
+      "title": "Sink Into Stillness, Bloom Again | 528Hz",
+      "channel": "Serina",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=j7wV8QpQ1iM"
+    },
+    {
+      "id": "zS9lSW6Hm2g",
+      "genre": "Meditation 528Hz",
+      "title": "528Hz + 963Hz ✨ Deep Calming Music for Meditation, Relaxation &amp; Inner Balance",
+      "channel": "Tranquil Sounds – Forest, Rain \\u0026 Sleep Music",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=zS9lSW6Hm2g"
+    },
+    {
+      "id": "yz7xkjGfVgw",
+      "genre": "Meditation 528Hz",
+      "title": "528Hz Focus &amp; Study 📚 Calm Your Space #Shorts",
+      "channel": "Lumina Mend",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=yz7xkjGfVgw"
+    },
+    {
+      "id": "zQWLWqfHXAU",
+      "genre": "Meditation 528Hz",
+      "title": "Deep Nervous System Reset: 528Hz Cellular Prana ✨ | The Zen Mind",
+      "channel": "The Zen Mind - Deep Sleep \\u0026 432Hz Healing",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=zQWLWqfHXAU"
+    },
+    {
+      "id": "0pKETQNC4BI",
+      "genre": "Afro House",
+      "title": "Afro House Mix 2026 🌅 Best Afro Deep &amp; Tribal Grooves | Sunset Energy Mix #VOL 34",
+      "channel": "Jungle Pulse House",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=0pKETQNC4BI"
+    },
+    {
+      "id": "6csOVm3rxE4",
+      "genre": "Afro House",
+      "title": "Afro House Mix 2026 | The Best of Afro House 2026",
+      "channel": "Sew",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=6csOVm3rxE4"
+    },
+    {
+      "id": "YQHRV1Y2yMo",
+      "genre": "Afro House",
+      "title": "AFRO HOUSE Sunset Mix 2026 | The Best of Afro House 2026 | Afro House Remix Vol.11",
+      "channel": "Sew",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=YQHRV1Y2yMo"
+    },
+    {
+      "id": "ALcjCv3-ctE",
+      "genre": "Afro House",
+      "title": "Afro House 2026 | Deep Melodic Set 🎧 | Black Coffee Style Vol. 5 #edm #afrobeats #afromusic",
+      "channel": "Afro House Playlist",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=ALcjCv3-ctE"
+    },
+    {
+      "id": "l9UxFDXbkl4",
+      "genre": "Afro House",
+      "title": "Turkish Afro House Mix 2026 🌅 Cappadocia Dreams | Summer Vibes #afrobeatmix #anatolianbeats",
+      "channel": "Anatolian Frequencies01",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=l9UxFDXbkl4"
+    },
+    {
+      "id": "ZTCqiImnNkE",
+      "genre": "Afro House",
+      "title": "AFRO HOUSE 2026 🌴 SUNSET VIBES | BLACK COFFEE STYLE | HYPNOTIC MIXED Vol. 26",
+      "channel": "Afro House Sorelle",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=ZTCqiImnNkE"
+    },
+    {
+      "id": "SI1eehjdiEg",
+      "genre": "Afro House",
+      "title": "NEW Afro - SOUL House Mix 2026 | The Best Afro House 2026 | Short.7",
+      "channel": "Smooth Chillout Lounge",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=SI1eehjdiEg"
+    },
+    {
+      "id": "3G7V_UsuIow",
+      "genre": "Afro House",
+      "title": "AFRO HOUSE MIX 2026 | Dance Till Morning",
+      "channel": "NOVA Deep Afro House",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=3G7V_UsuIow"
+    },
+    {
+      "id": "krtGwYwflM4",
+      "genre": "Afro House",
+      "title": "AFRO / MELODIC HOUSE 2026 – Deep Hypnotic Afro Vibes | Black Coffee Style DJ Set 🔥",
+      "channel": "Afro Melodic House Mix",
+      "is_ai": true,
+      "reason": "Keyword: CREATED USING AI",
+      "url": "https://www.youtube.com/watch?v=krtGwYwflM4"
+    },
+    {
+      "id": "A_PB9cBDAro",
+      "genre": "Afro House",
+      "title": "AMAPIANO AFRO HOUSE MIX 2026 ZANZIBAR EDITION 3",
+      "channel": "Afro Soul Vibes",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=A_PB9cBDAro"
+    },
+    {
+      "id": "MeM-C7OUql4",
+      "genre": "Afro House",
+      "title": "AFRO HOUSE 2026 🔥 BLACKOUT EYES | Deep Vocal &amp; Urban Afro Soul Groove",
+      "channel": "NOVA Deep Afro House",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=MeM-C7OUql4"
+    },
+    {
+      "id": "bu4Jgnpu2_0",
+      "genre": "Afro House",
+      "title": "Bonfire Hearts 🔥 Afro House for Rooftop Nights",
+      "channel": "Sauti Raha Afro",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=bu4Jgnpu2_0"
+    },
+    {
+      "id": "45uvtNANsOk",
+      "genre": "Afro House",
+      "title": "Mexican x Afro House Mix 2026 🔥 Latin &amp; Tribal Vibes | Catrina DJ Festival",
+      "channel": "FuegoCatrina",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=45uvtNANsOk"
+    },
+    {
+      "id": "UIzQAbsrlRk",
+      "genre": "Afro House",
+      "title": "Afro House Mix 2026 🔥 Tribal Afro House Energy | Emotional Melodic Beats #VOL 35",
+      "channel": "Jungle Pulse House",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=UIzQAbsrlRk"
+    },
+    {
+      "id": "SjRyN5TaeZs",
+      "genre": "Afro House",
+      "title": "BEST AMAPIANO MIX 2026 🔥 | Deep House Amapiano &amp; Afro House Mix  #amapiano #afrohouse  #amapianotv",
+      "channel": "NOX GROOVE",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=SjRyN5TaeZs"
+    },
+    {
+      "id": "0EuV2C_inrc",
+      "genre": "Afro House",
+      "title": "Afro House 2026 | Deep Melodic Set | Black Coffee Style | DJ VANTA | 1 Hour Vol. 2",
+      "channel": "AFRO DEEP VANTA",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=0EuV2C_inrc"
+    },
+    {
+      "id": "wncyVjDEhWg",
+      "genre": "Afro House",
+      "title": "🌍 Afro House Mix 2026 🌅 Tribal Afro House Journey | Emotional Melodic Grooves #VOL.16",
+      "channel": "Atlaxx Afro House",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=wncyVjDEhWg"
+    },
+    {
+      "id": "6Cm0gQxxM3o",
+      "genre": "Dubstep",
+      "title": "DRAGON SHIFT - IRON SACRAMENT | BRUTAL INDUSTRIAL HARDCORE, NEUROFUNK &amp; TEAROUT DUBSTEP",
+      "channel": "Backstage Chicago",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=6Cm0gQxxM3o"
+    },
+    {
+      "id": "RQDWCgGzciA",
+      "genre": "Afro House",
+      "title": "SUMMER AFRO HOUSE Sunset Mix 2026 🌅 Best Afro House Remix 2026 🔥 Deep Organic AFROBEAT #afrohouse",
+      "channel": "1 Music Trend",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=RQDWCgGzciA"
+    },
+    {
+      "id": "OBUO0rkeR34",
+      "genre": "Dubstep",
+      "title": "Techno Mix 2026😉🤘Best Nonstop Techno Songs For Party, Gym, Gaming 🔥Hyper Techno Remix",
+      "channel": "HyperTechFury",
+      "is_ai": true,
+      "reason": "Curated AI Farm",
+      "url": "https://www.youtube.com/watch?v=OBUO0rkeR34"
+    },
+    {
+      "id": "_iIhazLz6Rg",
+      "genre": "Chillhop",
+      "title": "Chillhop Mix ☕️ 50s Focus &amp; Espresso Break | Amber Grooves",
+      "channel": "Amber Grooves",
+      "is_ai": true,
+      "reason": "YouTube AI Disclosure",
+      "url": "https://www.youtube.com/watch?v=_iIhazLz6Rg"
+    }
+  ]
+}

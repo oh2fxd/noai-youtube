@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "NoAI for YouTube (Brave & Chrome)",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Detects, tags, and optionally hides AI-generated videos and Shorts on YouTube.",
   "permissions": [
     "storage"
