@@ -1,7 +1,7 @@
 import os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-BASE_DIR = '/home/oh2fxd/toolbox/python/noai'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORE_DIR = os.path.join(BASE_DIR, 'store_assets')
 ICON_PATH = os.path.join(STORE_DIR, 'store_icon_128x128.png')
 

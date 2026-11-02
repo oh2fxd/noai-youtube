@@ -2,7 +2,7 @@ import os
 import math
 from PIL import Image, ImageDraw, ImageFilter
 
-BASE_DIR = '/home/oh2fxd/toolbox/python/noai'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.makedirs(os.path.join(BASE_DIR, 'icons'), exist_ok=True)
 os.makedirs(os.path.join(BASE_DIR, 'store_assets'), exist_ok=True)
 

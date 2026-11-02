@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const detectChannels = document.getElementById('detect-channels');
   const keywordsInput = document.getElementById('keywords-input');
   const channelsInput = document.getElementById('channels-input');
+  const whitelistInput = document.getElementById('whitelist-input');
   const saveBtn = document.getElementById('save-advanced');
   const saveStatus = document.getElementById('save-status');
 
@@ -58,7 +59,8 @@ document.addEventListener('DOMContentLoaded', async () => {
       'ki generiert', 'generado por ia', 'hecho con ia', 'généré par ia', 'создано ии', 'нейросеть',
       'ai生成', '画像生成ai', '音楽生成ai'
     ],
-    customChannels: []
+    customChannels: [],
+    whitelistedChannels: []
   });
 
   masterToggle.checked = data.enabled;
@@ -77,6 +79,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   keywordsInput.value = (data.customKeywords || []).join(', ');
   channelsInput.value = (data.customChannels || []).join('\n');
+  if (whitelistInput) {
+    whitelistInput.value = (data.whitelistedChannels || []).join('\n');
+  }
+
+  // Set version display from manifest if available
+  const versionEl = document.getElementById('ext-version');
+  if (versionEl && chrome.runtime?.getManifest) {
+    versionEl.textContent = 'v' + chrome.runtime.getManifest().version;
+  }
 
   // Immediate save on toggles
   masterToggle.addEventListener('change', async () => {
@@ -118,10 +129,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   saveBtn.addEventListener('click', async () => {
     const rawKeywords = keywordsInput.value.split(',').map(s => s.trim()).filter(Boolean);
     const rawChannels = channelsInput.value.split('\n').map(s => s.trim()).filter(Boolean);
+    const rawWhitelist = whitelistInput ? whitelistInput.value.split('\n').map(s => s.trim()).filter(Boolean) : [];
 
     await chrome.storage.sync.set({
       customKeywords: rawKeywords,
-      customChannels: rawChannels
+      customChannels: rawChannels,
+      whitelistedChannels: rawWhitelist
     });
 
     saveStatus.textContent = 'Saved!';
@@ -129,4 +142,53 @@ document.addEventListener('DOMContentLoaded', async () => {
       saveStatus.textContent = '';
     }, 2000);
   });
+
+  // Export Settings & Blocklist to JSON
+  const exportBtn = document.getElementById('export-json');
+  if (exportBtn) {
+    exportBtn.addEventListener('click', async () => {
+      const stored = await chrome.storage.sync.get(null);
+      const jsonStr = JSON.stringify(stored, null, 2);
+      const blob = new Blob([jsonStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `noai-youtube-settings-${new Date().toISOString().slice(0, 10)}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+  }
+
+  // Import Settings & Blocklist from JSON
+  const importBtn = document.getElementById('import-json');
+  const importFile = document.getElementById('import-file');
+  if (importBtn && importFile) {
+    importBtn.addEventListener('click', () => importFile.click());
+    importFile.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = async (evt) => {
+        try {
+          const imported = JSON.parse(evt.target.result);
+          if (imported && typeof imported === 'object') {
+            await chrome.storage.sync.set(imported);
+            saveStatus.textContent = 'Imported!';
+            setTimeout(() => location.reload(), 1000);
+          }
+        } catch (err) {
+          alert('Invalid JSON file format.');
+        }
+      };
+      reader.readAsText(file);
+    });
+  }
+
+  const donateLink = document.getElementById('donate-link');
+  if (donateLink) {
+    donateLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      chrome.tabs.create({ url: donateLink.href });
+    });
+  }
 });

@@ -1,8 +1,12 @@
 import { spawn } from 'child_process';
 
+import { fileURLToPath } from 'url';
+import { dirname, resolve } from 'path';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 const PORT = 9253;
 const PDIR = '/tmp/brave_test_home_' + Date.now();
-const EXTENSION_DIR = '/home/oh2fxd/toolbox/python/noai/youtube-noai';
+const EXTENSION_DIR = resolve(__dirname, '..');
 
 console.log('Testing YouTube Home Page grid handling...');
 const brave = spawn('/usr/bin/brave-browser', [

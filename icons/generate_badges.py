@@ -1,7 +1,9 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-os.makedirs('/home/oh2fxd/toolbox/python/noai/icons', exist_ok=True)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ICONS_DIR = os.path.join(BASE_DIR, 'icons')
+os.makedirs(ICONS_DIR, exist_ok=True)
 
 # 1. Generate Big AI Badge (PNG) - 120x44px for sharp rendering
 w, h = 160, 48
@@ -33,8 +35,9 @@ draw.rectangle([80, 12, 88, 36], fill=(255, 255, 255, 255))
 draw.ellipse([98, 22, 104, 28], fill=(255, 255, 255, 255))
 
 # Draw badge label
-ai_badge.save('/home/oh2fxd/toolbox/python/noai/icons/ai-badge.png', 'PNG')
-print("Generated ai-badge.png")
+dest_ai_badge = os.path.join(ICONS_DIR, 'ai-badge.png')
+ai_badge.save(dest_ai_badge, 'PNG')
+print(f"Generated {dest_ai_badge}")
 
 # 2. Generate NO AI Block Logo (PNG) - Circular prohibition sign with "NO AI"
 size = 64
@@ -59,6 +62,7 @@ draw2.line([(24, 34), (32, 34)], fill=(255, 255, 255, 240), width=3)
 # Draw 'I'
 draw2.line([(42, 22), (42, 42)], fill=(255, 255, 255, 240), width=3)
 
-no_ai.save('/home/oh2fxd/toolbox/python/noai/icons/no-ai-block.png', 'PNG')
-print("Generated no-ai-block.png")
+dest_no_ai = os.path.join(ICONS_DIR, 'no-ai-block.png')
+no_ai.save(dest_no_ai, 'PNG')
+print(f"Generated {dest_no_ai}")
 
